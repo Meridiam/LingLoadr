@@ -1,0 +1,1416 @@
+# narwhal 1 a
+No@reg0 authors@reg1 that@reg2 the@reg3 critics@reg4 have@reg5 recommended@reg6 in@reg7 their@reg8 reviews@reg9 have@reg10 ever@reg11 received@reg12 acknowledgment@reg13 for@reg14 a@reg15 best-selling@reg16 novel.@reg17
+?q1a Was it the critics who wrote the reviews? Y
+# narwhal 1 b
+The@reg0 authors@reg1 that@reg2 no@reg3 critics@reg4 have@reg5 recommended@reg6 in@reg7 their@reg8 reviews@reg9 have@reg10 ever@reg11 received@reg12 acknowledgment@reg13 for@reg14 a@reg15 best-selling@reg16 novel.@reg17
+?q1b Was it the critics who wrote the reviews? Y
+# narwhal 1 c
+The@reg0 authors@reg1 that@reg2 the@reg3 critics@reg4 haven't@reg5 recommended@reg6 in@reg7 their@reg8 reviews@reg9 have@reg10 ever@reg11 received@reg12 acknowledgment@reg13 for@reg14 a@reg15 best-selling@reg16 novel.@reg17
+?q1c Was it the critics who wrote the reviews? Y
+# narwhal 1 d
+The@reg0 authors@reg1 that@reg2 the@reg3 critics@reg4 have@reg5 recommended@reg6 in@reg7 their@reg8 reviews@reg9 have@reg10 ever@reg11 received@reg12 acknowledgment@reg13 for@reg14 a@reg15 best-selling@reg16 novel.@reg17
+?q1d Was it the critics who wrote the reviews? Y
+# narwhal 2 a
+No@reg0 soldiers@reg1 that@reg2 the@reg3 diplomats@reg4 have@reg5 supported@reg6 in@reg7 the@reg8 trial@reg9 have@reg10 ever@reg11 shown@reg12 respect@reg13 to@reg14 the@reg15 war@reg16 victims.@reg17
+?q2a Were the victims injured in an industrial accident? N
+# narwhal 2 b
+The@reg0 soldiers@reg1 that@reg2 no@reg3 diplomats@reg4 have@reg5 supported@reg6 in@reg7 the@reg8 trial@reg9 have@reg10 ever@reg11 shown@reg12 respect@reg13 to@reg14 the@reg15 war@reg16 victims.@reg17
+?q2b Were the victims injured in an industrial accident? N
+# narwhal 2 c
+The@reg0 soldiers@reg1 that@reg2 the@reg3 diplomats@reg4 haven't@reg5 supported@reg6 in@reg7 the@reg8 trial@reg9 have@reg10 ever@reg11 shown@reg12 respect@reg13 to@reg14 the@reg15 war@reg16 victims.@reg17
+?q2c Were the victims injured in an industrial accident? N
+# narwhal 2 d
+The@reg0 soldiers@reg1 that@reg2 the@reg3 diplomats@reg4 have@reg5 supported@reg6 in@reg7 the@reg8 trial@reg9 have@reg10 ever@reg11 shown@reg12 respect@reg13 to@reg14 the@reg15 war@reg16 victims.@reg17
+?q2d Were the victims injured in an industrial accident? N
+# narwhal 3 a
+No@reg0 ambassadors@reg1 that@reg2 the@reg3 diplomats@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 treaty@reg9 have@reg10 ever@reg11 seen@reg12 brutality@reg13 in@reg14 the@reg15 foreign@reg16 war.@reg17
+?q3a Was the war a domestic war? N
+# narwhal 3 b
+The@reg0 ambassadors@reg1 that@reg2 no@reg3 diplomats@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 treaty@reg9 have@reg10 ever@reg11 seen@reg12 brutality@reg13 in@reg14 the@reg15 foreign@reg16 war.@reg17
+?q3b Was the war a domestic war? N
+# narwhal 3 c
+The@reg0 ambassadors@reg1 that@reg2 the@reg3 diplomats@reg4 haven't@reg5 consulted@reg6 about@reg7 the@reg8 treaty@reg9 have@reg10 ever@reg11 seen@reg12 brutality@reg13 in@reg14 the@reg15 foreign@reg16 war.@reg17
+?q3c Was the war a domestic war? N
+# narwhal 3 d
+The@reg0 ambassadors@reg1 that@reg2 the@reg3 diplomats@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 treaty@reg9 have@reg10 ever@reg11 seen@reg12 brutality@reg13 in@reg14 the@reg15 foreign@reg16 war.@reg17
+?q3d Was the war a domestic war? N
+# narwhal 4 a
+No@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 have@reg5 challenged@reg6 over@reg7 low@reg8 grades@reg9 have@reg10 ever@reg11 wanted@reg12 negativity@reg13 in@reg14 a@reg15 class@reg16 debate.@reg17
+?q4a Were there debates in the class? Y
+# narwhal 4 b
+The@reg0 professors@reg1 that@reg2 no@reg3 students@reg4 have@reg5 challenged@reg6 over@reg7 low@reg8 grades@reg9 have@reg10 ever@reg11 wanted@reg12 negativity@reg13 in@reg14 a@reg15 class@reg16 debate.@reg17
+?q4b Were there debates in the class? Y
+# narwhal 4 c
+The@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 haven't@reg5 challenged@reg6 over@reg7 low@reg8 grades@reg9 have@reg10 ever@reg11 wanted@reg12 negativity@reg13 in@reg14 a@reg15 class@reg16 debate.@reg17
+?q4c Were there debates in the class? Y
+# narwhal 4 d
+The@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 have@reg5 challenged@reg6 over@reg7 low@reg8 grades@reg9 have@reg10 ever@reg11 wanted@reg12 negativity@reg13 in@reg14 a@reg15 class@reg16 debate.@reg17
+?q4d Were there debates in the class? Y
+# narwhal 5 a
+No@reg0 customers@reg1 that@reg2 the@reg3 salesmen@reg4 have@reg5 assisted@reg6 in@reg7 the@reg8 outlet@reg9 have@reg10 ever@reg11 expressed@reg12 optimism@reg13 for@reg14 a@reg15 full@reg16 refund.@reg17
+?q5a Were the refunds full refunds? Y
+# narwhal 5 b
+The@reg0 customers@reg1 that@reg2 no@reg3 salesmen@reg4 have@reg5 assisted@reg6 in@reg7 the@reg8 outlet@reg9 have@reg10 ever@reg11 expressed@reg12 optimism@reg13 for@reg14 a@reg15 full@reg16 refund.@reg17
+?q5b Were the refunds full refunds? Y
+# narwhal 5 c
+The@reg0 customers@reg1 that@reg2 the@reg3 salesmen@reg4 haven't@reg5 assisted@reg6 in@reg7 the@reg8 outlet@reg9 have@reg10 ever@reg11 expressed@reg12 optimism@reg13 for@reg14 a@reg15 full@reg16 refund.@reg17
+?q5c Were the refunds full refunds? Y
+# narwhal 5 d
+The@reg0 customers@reg1 that@reg2 the@reg3 salesmen@reg4 have@reg5 assisted@reg6 in@reg7 the@reg8 outlet@reg9 have@reg10 ever@reg11 expressed@reg12 optimism@reg13 for@reg14 a@reg15 full@reg16 refund.@reg17
+?q5d Were the refunds full refunds? Y
+# narwhal 6 a
+No@reg0 diplomats@reg1 that@reg2 the@reg3 politicians@reg4 have@reg5 informed@reg6 of@reg7 recent@reg8 policies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 the@reg15 liberal@reg16 newspapers.@reg17
+?q6a Were the newspapers conservative? N
+# narwhal 6 b
+The@reg0 diplomats@reg1 that@reg2 no@reg3 politicians@reg4 have@reg5 informed@reg6 of@reg7 recent@reg8 policies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 the@reg15 liberal@reg16 newspapers.@reg17
+?q6b Were the newspapers conservative? N
+# narwhal 6 c
+The@reg0 diplomats@reg1 that@reg2 the@reg3 politicians@reg4 haven't@reg5 informed@reg6 of@reg7 recent@reg8 policies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 the@reg15 liberal@reg16 newspapers.@reg17
+?q6c Were the newspapers conservative? N
+# narwhal 6 d
+The@reg0 diplomats@reg1 that@reg2 the@reg3 politicians@reg4 have@reg5 informed@reg6 of@reg7 recent@reg8 policies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 the@reg15 liberal@reg16 newspapers.@reg17
+?q6d Were the newspapers conservative? N
+# narwhal 7 a
+No@reg0 maids@reg1 that@reg2 the@reg3 housewives@reg4 have@reg5 thanked@reg6 for@reg7 their@reg8 work@reg9 have@reg10 ever@reg11 caused@reg12 damage@reg13 to@reg14 the@reg15 delicate@reg16 clothing.@reg17
+?q7a Was the clothing delicate? Y
+# narwhal 7 b
+The@reg0 maids@reg1 that@reg2 no@reg3 housewives@reg4 have@reg5 thanked@reg6 for@reg7 their@reg8 work@reg9 have@reg10 ever@reg11 caused@reg12 damage@reg13 to@reg14 the@reg15 delicate@reg16 clothing.@reg17
+?q7b Was the clothing delicate? Y
+# narwhal 7 c
+The@reg0 maids@reg1 that@reg2 the@reg3 housewives@reg4 haven't@reg5 thanked@reg6 for@reg7 their@reg8 work@reg9 have@reg10 ever@reg11 caused@reg12 damage@reg13 to@reg14 the@reg15 delicate@reg16 clothing.@reg17
+?q7c Was the clothing delicate? Y
+# narwhal 7 d
+The@reg0 maids@reg1 that@reg2 the@reg3 housewives@reg4 have@reg5 thanked@reg6 for@reg7 their@reg8 work@reg9 have@reg10 ever@reg11 caused@reg12 damage@reg13 to@reg14 the@reg15 delicate@reg16 clothing.@reg17
+?q7d Was the clothing delicate? Y
+# narwhal 8 a
+No@reg0 lawyers@reg1 that@reg2 the@reg3 businessmen@reg4 have@reg5 hired@reg6 for@reg7 legal@reg8 advice@reg9 have@reg10 ever@reg11 received@reg12 criticism@reg13 for@reg14 lost@reg15 fraud@reg16 trials.@reg17
+?q8a Were the trials for fraud? Y
+# narwhal 8 b
+The@reg0 lawyers@reg1 that@reg2 no@reg3 businessmen@reg4 have@reg5 hired@reg6 for@reg7 legal@reg8 advice@reg9 have@reg10 ever@reg11 received@reg12 criticism@reg13 for@reg14 lost@reg15 fraud@reg16 trials.@reg17
+?q8b Were the trials for fraud? Y
+# narwhal 8 c
+The@reg0 lawyers@reg1 that@reg2 the@reg3 businessmen@reg4 haven't@reg5 hired@reg6 for@reg7 legal@reg8 advice@reg9 have@reg10 ever@reg11 received@reg12 criticism@reg13 for@reg14 lost@reg15 fraud@reg16 trials.@reg17
+?q8c Were the trials for fraud? Y
+# narwhal 8 d
+The@reg0 lawyers@reg1 that@reg2 the@reg3 businessmen@reg4 have@reg5 hired@reg6 for@reg7 legal@reg8 advice@reg9 have@reg10 ever@reg11 received@reg12 criticism@reg13 for@reg14 lost@reg15 fraud@reg16 trials.@reg17
+?q8d Were the trials for fraud? Y
+# narwhal 9 a
+No@reg0 students@reg1 that@reg2 the@reg3 teachers@reg4 have@reg5 punished@reg6 for@reg7 bad@reg8 behavior@reg9 have@reg10 ever@reg11 expected@reg12 friendliness@reg13 from@reg14 the@reg15 strict@reg16 principal.@reg17
+?q9a Was the principal lenient? N
+# narwhal 9 b
+The@reg0 students@reg1 that@reg2 no@reg3 teachers@reg4 have@reg5 punished@reg6 for@reg7 bad@reg8 behavior@reg9 have@reg10 ever@reg11 expected@reg12 friendliness@reg13 from@reg14 the@reg15 strict@reg16 principal.@reg17
+?q9b Was the principal lenient? N
+# narwhal 9 c
+The@reg0 students@reg1 that@reg2 the@reg3 teachers@reg4 haven't@reg5 punished@reg6 for@reg7 bad@reg8 behavior@reg9 have@reg10 ever@reg11 expected@reg12 friendliness@reg13 from@reg14 the@reg15 strict@reg16 principal.@reg17
+?q9c Was the principal lenient? N
+# narwhal 9 d
+The@reg0 students@reg1 that@reg2 the@reg3 teachers@reg4 have@reg5 punished@reg6 for@reg7 bad@reg8 behavior@reg9 have@reg10 ever@reg11 expected@reg12 friendliness@reg13 from@reg14 the@reg15 strict@reg16 principal.@reg17
+?q9d Was the principal lenient? N
+# narwhal 10 a
+No@reg0 babysitters@reg1 that@reg2 the@reg3 children@reg4 have@reg5 disobeyed@reg6 during@reg7 an@reg8 outing@reg9 have@reg10 ever@reg11 expected@reg12 gratitude@reg13 from@reg14 the@reg15 disappointed@reg16 parents.@reg17
+?q10a Were the parents pleased? N
+# narwhal 10 b
+The@reg0 babysitters@reg1 that@reg2 no@reg3 children@reg4 have@reg5 disobeyed@reg6 during@reg7 an@reg8 outing@reg9 have@reg10 ever@reg11 expected@reg12 gratitude@reg13 from@reg14 the@reg15 disappointed@reg16 parents.@reg17
+?q10b Were the parents pleased? N
+# narwhal 10 c
+The@reg0 babysitters@reg1 that@reg2 the@reg3 children@reg4 haven't@reg5 disobeyed@reg6 during@reg7 an@reg8 outing@reg9 have@reg10 ever@reg11 expected@reg12 gratitude@reg13 from@reg14 the@reg15 disappointed@reg16 parents.@reg17
+?q10c Were the parents pleased? N
+# narwhal 10 d
+The@reg0 babysitters@reg1 that@reg2 the@reg3 children@reg4 have@reg5 disobeyed@reg6 during@reg7 an@reg8 outing@reg9 have@reg10 ever@reg11 expected@reg12 gratitude@reg13 from@reg14 the@reg15 disappointed@reg16 parents.@reg17
+?q10d Were the parents pleased? N
+# narwhal 11 a
+No@reg0 actors@reg1 that@reg2 the@reg3 producers@reg4 have@reg5 solicited@reg6 for@reg7 their@reg8 films@reg9 have@reg10 ever@reg11 experienced@reg12 injuries@reg13 from@reg14 a@reg15 dangerous@reg16 stunt.@reg17
+?q11a Were all of the stunts safe? N
+# narwhal 11 b
+The@reg0 actors@reg1 that@reg2 no@reg3 producers@reg4 have@reg5 solicited@reg6 for@reg7 their@reg8 films@reg9 have@reg10 ever@reg11 experienced@reg12 injuries@reg13 from@reg14 a@reg15 dangerous@reg16 stunt.@reg17
+?q11b Were all of the stunts safe? N
+# narwhal 11 c
+The@reg0 actors@reg1 that@reg2 the@reg3 producers@reg4 haven't@reg5 solicited@reg6 for@reg7 their@reg8 films@reg9 have@reg10 ever@reg11 experienced@reg12 injuries@reg13 from@reg14 a@reg15 dangerous@reg16 stunt.@reg17
+?q11c Were all of the stunts safe? N
+# narwhal 11 d
+The@reg0 actors@reg1 that@reg2 the@reg3 producers@reg4 have@reg5 solicited@reg6 for@reg7 their@reg8 films@reg9 have@reg10 ever@reg11 experienced@reg12 injuries@reg13 from@reg14 a@reg15 dangerous@reg16 stunt.@reg17
+?q11d Were all of the stunts safe? N
+# narwhal 12 a
+No@reg0 teachers@reg1 that@reg2 the@reg3 parents@reg4 have@reg5 commended@reg6 in@reg7 PTA@reg8 meetings@reg9 have@reg10 ever@reg11 caused@reg12 problems@reg13 with@reg14 the@reg15 school@reg16 administrators.@reg17
+?q12a Were the meetings held by the PTA? Y
+# narwhal 12 b
+The@reg0 teachers@reg1 that@reg2 no@reg3 parents@reg4 have@reg5 commended@reg6 in@reg7 PTA@reg8 meetings@reg9 have@reg10 ever@reg11 caused@reg12 problems@reg13 with@reg14 the@reg15 school@reg16 administrators.@reg17
+?q12b Were the meetings held by the PTA? Y
+# narwhal 12 c
+The@reg0 teachers@reg1 that@reg2 the@reg3 parents@reg4 haven't@reg5 commended@reg6 in@reg7 PTA@reg8 meetings@reg9 have@reg10 ever@reg11 caused@reg12 problems@reg13 with@reg14 the@reg15 school@reg16 administrators.@reg17
+?q12c Were the meetings held by the PTA? Y
+# narwhal 12 d
+The@reg0 teachers@reg1 that@reg2 the@reg3 parents@reg4 have@reg5 commended@reg6 in@reg7 PTA@reg8 meetings@reg9 have@reg10 ever@reg11 caused@reg12 problems@reg13 with@reg14 the@reg15 school@reg16 administrators.@reg17
+?q12d Were the meetings held by the PTA? Y
+# narwhal 13 a
+No@reg0 students@reg1 that@reg2 the@reg3 librarians@reg4 have@reg5 helped@reg6 with@reg7 book@reg8 reports@reg9 have@reg10 ever@reg11 made@reg12 progress@reg13 on@reg14 the@reg15 difficult@reg16 assignment.@reg17
+?q13a Was the assignment easy? N
+# narwhal 13 b
+The@reg0 students@reg1 that@reg2 no@reg3 librarians@reg4 have@reg5 helped@reg6 with@reg7 book@reg8 reports@reg9 have@reg10 ever@reg11 made@reg12 progress@reg13 on@reg14 the@reg15 difficult@reg16 assignment.@reg17
+?q13b Was the assignment easy? N
+# narwhal 13 c
+The@reg0 students@reg1 that@reg2 the@reg3 librarians@reg4 haven't@reg5 helped@reg6 with@reg7 book@reg8 reports@reg9 have@reg10 ever@reg11 made@reg12 progress@reg13 on@reg14 the@reg15 difficult@reg16 assignment.@reg17
+?q13c Was the assignment easy? N
+# narwhal 13 d
+The@reg0 students@reg1 that@reg2 the@reg3 librarians@reg4 have@reg5 helped@reg6 with@reg7 book@reg8 reports@reg9 have@reg10 ever@reg11 made@reg12 progress@reg13 on@reg14 the@reg15 difficult@reg16 assignment.@reg17
+?q13d Was the assignment easy? N
+# narwhal 14 a
+No@reg0 nurses@reg1 that@reg2 the@reg3 doctors@reg4 have@reg5 requested@reg6 for@reg7 the@reg8 surgery@reg9 have@reg10 ever@reg11 shown@reg12 clumsiness@reg13 in@reg14 the@reg15 operating@reg16 room.@reg17
+?q14a Were the doctors able to request the more adept nurses? Y
+# narwhal 14 b
+The@reg0 nurses@reg1 that@reg2 no@reg3 doctors@reg4 have@reg5 requested@reg6 for@reg7 the@reg8 surgery@reg9 have@reg10 ever@reg11 shown@reg12 clumsiness@reg13 in@reg14 the@reg15 operating@reg16 room.@reg17
+?q14b Were the doctors able to request the more adept nurses? Y
+# narwhal 14 c
+The@reg0 nurses@reg1 that@reg2 the@reg3 doctors@reg4 haven't@reg5 requested@reg6 for@reg7 the@reg8 surgery@reg9 have@reg10 ever@reg11 shown@reg12 clumsiness@reg13 in@reg14 the@reg15 operating@reg16 room.@reg17
+?q14c Were the doctors able to request the more adept nurses? Y
+# narwhal 14 d
+The@reg0 nurses@reg1 that@reg2 the@reg3 doctors@reg4 have@reg5 requested@reg6 for@reg7 the@reg8 surgery@reg9 have@reg10 ever@reg11 shown@reg12 clumsiness@reg13 in@reg14 the@reg15 operating@reg16 room.@reg17
+?q14d Were the doctors able to request the more adept nurses? Y
+# narwhal 15 a
+No@reg0 criminals@reg1 that@reg2 the@reg3 policemen@reg4 have@reg5 caught@reg6 in@reg7 drug@reg8 raids@reg9 have@reg10 ever@reg11 felt@reg12 satisfaction@reg13 from@reg14 a@reg15 petty@reg16 crime.@reg17
+?q15a Were the raids in search of drugs? Y
+# narwhal 15 b
+The@reg0 criminals@reg1 that@reg2 no@reg3 policemen@reg4 have@reg5 caught@reg6 in@reg7 drug@reg8 raids@reg9 have@reg10 ever@reg11 felt@reg12 satisfaction@reg13 from@reg14 a@reg15 petty@reg16 crime.@reg17
+?q15b Were the raids in search of drugs? Y
+# narwhal 15 c
+The@reg0 criminals@reg1 that@reg2 the@reg3 policemen@reg4 haven't@reg5 caught@reg6 in@reg7 drug@reg8 raids@reg9 have@reg10 ever@reg11 felt@reg12 satisfaction@reg13 from@reg14 a@reg15 petty@reg16 crime.@reg17
+?q15c Were the raids in search of drugs? Y
+# narwhal 15 d
+The@reg0 criminals@reg1 that@reg2 the@reg3 policemen@reg4 have@reg5 caught@reg6 in@reg7 drug@reg8 raids@reg9 have@reg10 ever@reg11 felt@reg12 satisfaction@reg13 from@reg14 a@reg15 petty@reg16 crime.@reg17
+?q15d Were the raids in search of drugs? Y
+# narwhal 16 a
+No@reg0 employees@reg1 that@reg2 the@reg3 managers@reg4 have@reg5 recommended@reg6 for@reg7 a@reg8 raise@reg9 have@reg10 ever@reg11 expressed@reg12 frustration@reg13 with@reg14 the@reg15 rude@reg16 customers.@reg17
+?q16a Were all of the customers nice? N
+# narwhal 16 b
+The@reg0 employees@reg1 that@reg2 no@reg3 managers@reg4 have@reg5 recommended@reg6 for@reg7 a@reg8 raise@reg9 have@reg10 ever@reg11 expressed@reg12 frustration@reg13 with@reg14 the@reg15 rude@reg16 customers.@reg17
+?q16b Were all of the customers nice? N
+# narwhal 16 c
+The@reg0 employees@reg1 that@reg2 the@reg3 managers@reg4 haven't@reg5 recommended@reg6 for@reg7 a@reg8 raise@reg9 have@reg10 ever@reg11 expressed@reg12 frustration@reg13 with@reg14 the@reg15 rude@reg16 customers.@reg17
+?q16c Were all of the customers nice? N
+# narwhal 16 d
+The@reg0 employees@reg1 that@reg2 the@reg3 managers@reg4 have@reg5 recommended@reg6 for@reg7 a@reg8 raise@reg9 have@reg10 ever@reg11 expressed@reg12 frustration@reg13 with@reg14 the@reg15 rude@reg16 customers.@reg17
+?q16d Were all of the customers nice? N
+# narwhal 17 a
+No@reg0 accountants@reg1 that@reg2 the@reg3 managers@reg4 have@reg5 blamed@reg6 for@reg7 company@reg8 losses@reg9 have@reg10 ever@reg11 seen@reg12 rises@reg13 in@reg14 the@reg15 quarterly@reg16 profits.@reg17
+?q17a Were the profits reported quarterly? Y
+# narwhal 17 b
+The@reg0 accountants@reg1 that@reg2 no@reg3 managers@reg4 have@reg5 blamed@reg6 for@reg7 company@reg8 losses@reg9 have@reg10 ever@reg11 seen@reg12 rises@reg13 in@reg14 the@reg15 quarterly@reg16 profits.@reg17
+?q17b Were the profits reported quarterly? Y
+# narwhal 17 c
+The@reg0 accountants@reg1 that@reg2 the@reg3 managers@reg4 haven't@reg5 blamed@reg6 for@reg7 company@reg8 losses@reg9 have@reg10 ever@reg11 seen@reg12 rises@reg13 in@reg14 the@reg15 quarterly@reg16 profits.@reg17
+?q17c Were the profits reported quarterly? Y
+# narwhal 17 d
+The@reg0 accountants@reg1 that@reg2 the@reg3 managers@reg4 have@reg5 blamed@reg6 for@reg7 company@reg8 losses@reg9 have@reg10 ever@reg11 seen@reg12 rises@reg13 in@reg14 the@reg15 quarterly@reg16 profits.@reg17
+?q17d Were the profits reported quarterly? Y
+# narwhal 18 a
+No@reg0 candidates@reg1 that@reg2 the@reg3 voters@reg4 have@reg5 supported@reg6 during@reg7 the@reg8 election@reg9 have@reg10 ever@reg11 shown@reg12 friendliness@reg13 to@reg14 the@reg15 rude@reg16 journalists.@reg17
+?q18a Were the journalists kind? N
+# narwhal 18 b
+The@reg0 candidates@reg1 that@reg2 no@reg3 voters@reg4 have@reg5 supported@reg6 during@reg7 the@reg8 election@reg9 have@reg10 ever@reg11 shown@reg12 friendliness@reg13 to@reg14 the@reg15 rude@reg16 journalists.@reg17
+?q18b Were the journalists kind? N
+# narwhal 18 c
+The@reg0 candidates@reg1 that@reg2 the@reg3 voters@reg4 haven't@reg5 supported@reg6 during@reg7 the@reg8 election@reg9 have@reg10 ever@reg11 shown@reg12 friendliness@reg13 to@reg14 the@reg15 rude@reg16 journalists.@reg17
+?q18c Were the journalists kind? N
+# narwhal 18 d
+The@reg0 candidates@reg1 that@reg2 the@reg3 voters@reg4 have@reg5 supported@reg6 during@reg7 the@reg8 election@reg9 have@reg10 ever@reg11 shown@reg12 friendliness@reg13 to@reg14 the@reg15 rude@reg16 journalists.@reg17
+?q18d Were the journalists kind? N
+# narwhal 19 a
+No@reg0 surgeons@reg1 that@reg2 the@reg3 patients@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 operation@reg9 have@reg10 ever@reg11 expressed@reg12 dissatisfaction@reg13 with@reg14 the@reg15 hospital@reg16 staff.@reg17
+?q19a Was it a school that the staff worked at? N
+# narwhal 19 b
+The@reg0 surgeons@reg1 that@reg2 no@reg3 patients@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 operation@reg9 have@reg10 ever@reg11 expressed@reg12 dissatisfaction@reg13 with@reg14 the@reg15 hospital@reg16 staff.@reg17
+?q19b Was it a school that the staff worked at? N
+# narwhal 19 c
+The@reg0 surgeons@reg1 that@reg2 the@reg3 patients@reg4 haven't@reg5 consulted@reg6 about@reg7 the@reg8 operation@reg9 have@reg10 ever@reg11 expressed@reg12 dissatisfaction@reg13 with@reg14 the@reg15 hospital@reg16 staff.@reg17
+?q19c Was it a school that the staff worked at? N
+# narwhal 19 d
+The@reg0 surgeons@reg1 that@reg2 the@reg3 patients@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 operation@reg9 have@reg10 ever@reg11 expressed@reg12 dissatisfaction@reg13 with@reg14 the@reg15 hospital@reg16 staff.@reg17
+?q19d Was it a school that the staff worked at? N
+# narwhal 20 a
+No@reg0 suspects@reg1 that@reg2 the@reg3 witnesses@reg4 have@reg5 identified@reg6 in@reg7 photo@reg8 line-ups@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 in@reg14 the@reg15 court@reg16 room.@reg17
+?q20a Were the line-ups conducted using photos? Y
+# narwhal 20 b
+The@reg0 suspects@reg1 that@reg2 no@reg3 witnesses@reg4 have@reg5 identified@reg6 in@reg7 photo@reg8 line-ups@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 in@reg14 the@reg15 court@reg16 room.@reg17
+?q20b Were the line-ups conducted using photos? Y
+# narwhal 20 c
+The@reg0 suspects@reg1 that@reg2 the@reg3 witnesses@reg4 haven't@reg5 identified@reg6 in@reg7 photo@reg8 line-ups@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 in@reg14 the@reg15 court@reg16 room.@reg17
+?q20c Were the line-ups conducted using photos? Y
+# narwhal 20 d
+The@reg0 suspects@reg1 that@reg2 the@reg3 witnesses@reg4 have@reg5 identified@reg6 in@reg7 photo@reg8 line-ups@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 in@reg14 the@reg15 court@reg16 room.@reg17
+?q20d Were the line-ups conducted using photos? Y
+# narwhal 21 a
+No@reg0 actresses@reg1 that@reg2 the@reg3 moviegoers@reg4 have@reg5 praised@reg6 for@reg7 their@reg8 performance@reg9 have@reg10 ever@reg11 caused@reg12 excitement@reg13 at@reg14 a@reg15 film@reg16 festival.@reg17
+?q21a Was the festival a music festival? N
+# narwhal 21 b
+The@reg0 actresses@reg1 that@reg2 no@reg3 moviegoers@reg4 have@reg5 praised@reg6 for@reg7 their@reg8 performance@reg9 have@reg10 ever@reg11 caused@reg12 excitement@reg13 at@reg14 a@reg15 film@reg16 festival.@reg17
+?q21b Was the festival a music festival? N
+# narwhal 21 c
+The@reg0 actresses@reg1 that@reg2 the@reg3 moviegoers@reg4 haven't@reg5 praised@reg6 for@reg7 their@reg8 performance@reg9 have@reg10 ever@reg11 caused@reg12 excitement@reg13 at@reg14 a@reg15 film@reg16 festival.@reg17
+?q21c Was the festival a music festival? N
+# narwhal 21 d
+The@reg0 actresses@reg1 that@reg2 the@reg3 moviegoers@reg4 have@reg5 praised@reg6 for@reg7 their@reg8 performance@reg9 have@reg10 ever@reg11 caused@reg12 excitement@reg13 at@reg14 a@reg15 film@reg16 festival.@reg17
+?q21d Was the festival a music festival? N
+# narwhal 22 a
+No@reg0 senators@reg1 that@reg2 the@reg3 billionaires@reg4 have@reg5 supported@reg6 with@reg7 campaign@reg8 donations@reg9 have@reg10 ever@reg11 received@reg12 hostility@reg13 from@reg14 online@reg15 news@reg16 media.@reg17
+?q22a Was the news available online? Y
+# narwhal 22 b
+The@reg0 senators@reg1 that@reg2 no@reg3 billionaires@reg4 have@reg5 supported@reg6 with@reg7 campaign@reg8 donations@reg9 have@reg10 ever@reg11 received@reg12 hostility@reg13 from@reg14 online@reg15 news@reg16 media.@reg17
+?q22b Was the news available online? Y
+# narwhal 22 c
+The@reg0 senators@reg1 that@reg2 the@reg3 billionaires@reg4 haven't@reg5 supported@reg6 with@reg7 campaign@reg8 donations@reg9 have@reg10 ever@reg11 received@reg12 hostility@reg13 from@reg14 online@reg15 news@reg16 media.@reg17
+?q22c Was the news available online? Y
+# narwhal 22 d
+The@reg0 senators@reg1 that@reg2 the@reg3 billionaires@reg4 have@reg5 supported@reg6 with@reg7 campaign@reg8 donations@reg9 have@reg10 ever@reg11 received@reg12 hostility@reg13 from@reg14 online@reg15 news@reg16 media.@reg17
+?q22d Was the news available online? Y
+# narwhal 23 a
+No@reg0 politicians@reg1 that@reg2 the@reg3 journalists@reg4 have@reg5 endorsed@reg6 in@reg7 the@reg8 media@reg9 have@reg10 ever@reg11 earned@reg12 trust@reg13 from@reg14 the@reg15 rural@reg16 communities.@reg17
+?q23a Was it the journalists who were endorsed? N
+# narwhal 23 b
+The@reg0 politicians@reg1 that@reg2 no@reg3 journalists@reg4 have@reg5 endorsed@reg6 in@reg7 the@reg8 media@reg9 have@reg10 ever@reg11 earned@reg12 trust@reg13 from@reg14 the@reg15 rural@reg16 communities.@reg17
+?q23b Was it the journalists who were endorsed? N
+# narwhal 23 c
+The@reg0 politicians@reg1 that@reg2 the@reg3 journalists@reg4 haven't@reg5 endorsed@reg6 in@reg7 the@reg8 media@reg9 have@reg10 ever@reg11 earned@reg12 trust@reg13 from@reg14 the@reg15 rural@reg16 communities.@reg17
+?q23c Was it the journalists who were endorsed? N
+# narwhal 23 d
+The@reg0 politicians@reg1 that@reg2 the@reg3 journalists@reg4 haven@reg5 endorsed@reg6 in@reg7 the@reg8 media@reg9 have@reg10 ever@reg11 earned@reg12 trust@reg13 from@reg14 the@reg15 rural@reg16 communities.@reg17
+?q23d Were all of the siblings well-mannered? N
+# narwhal 24 a
+No@reg0 teenagers@reg1 that@reg2 the@reg3 parents@reg4 have@reg5 trusted@reg6 with@reg7 a@reg8 car@reg9 have@reg10 ever@reg11 expressed@reg12 impatience@reg13 with@reg14 their@reg15 rambunctious@reg16 siblings.@reg17
+?q24a Were all of the siblings well-mannered? N
+# narwhal 24 b
+The@reg0 teenagers@reg1 that@reg2 no@reg3 parents@reg4 have@reg5 trusted@reg6 with@reg7 a@reg8 car@reg9 have@reg10 ever@reg11 expressed@reg12 impatience@reg13 with@reg14 their@reg15 rambunctious@reg16 siblings.@reg17
+?q24b Were all of the siblings well-mannered? N
+# narwhal 24 c
+The@reg0 teenagers@reg1 that@reg2 the@reg3 parents@reg4 haven't@reg5 trusted@reg6 with@reg7 a@reg8 car@reg9 have@reg10 ever@reg11 expressed@reg12 impatience@reg13 with@reg14 their@reg15 rambunctious@reg16 siblings.@reg17
+?q24c Were all of the siblings well-mannered? N
+# narwhal 24 d
+The@reg0 teenagers@reg1 that@reg2 the@reg3 parents@reg4 have@reg5 trusted@reg6 with@reg7 a@reg8 car@reg9 have@reg10 ever@reg11 expressed@reg12 impatience@reg13 with@reg14 their@reg15 rambunctious@reg16 siblings.@reg17
+?q24d Were all of the siblings well-mannered? N
+# narwhal 25 a
+No@reg0 survivors@reg1 that@reg2 the@reg3 medics@reg4 have@reg5 cured@reg6 of@reg7 their@reg8 injuries@reg9 have@reg10 ever@reg11 felt@reg12 regret@reg13 for@reg14 their@reg15 military@reg16 service@reg17
+?q25a Were the injuries suffered in times of war? Y
+# narwhal 25 b
+The@reg0 survivors@reg1 that@reg2 no@reg3 medics@reg4 have@reg5 cured@reg6 of@reg7 their@reg8 injuries@reg9 have@reg10 ever@reg11 felt@reg12 regret@reg13 for@reg14 their@reg15 military@reg16 service@reg17
+?q25b Were the injuries suffered in times of war? Y
+# narwhal 25 c
+The@reg0 survivors@reg1 that@reg2 the@reg3 medics@reg4 haven't@reg5 cured@reg6 of@reg7 their@reg8 injuries@reg9 have@reg10 ever@reg11 felt@reg12 regret@reg13 for@reg14 their@reg15 military@reg16 service@reg17
+?q25c Were the injuries suffered in times of war? Y
+# narwhal 25 d
+The@reg0 survivors@reg1 that@reg2 the@reg3 medics@reg4 have@reg5 cured@reg6 of@reg7 their@reg8 injuries@reg9 have@reg10 ever@reg11 felt@reg12 regret@reg13 for@reg14 their@reg15 military@reg16 service@reg17
+?q25d Were the injuries suffered in times of war? Y
+# narwhal 26 a
+No@reg0 players@reg1 that@reg2 the@reg3 coaches@reg4 have@reg5 drafted@reg6 for@reg7 the@reg8 team@reg9 have@reg10 ever@reg11 felt@reg12 nervousness@reg13 before@reg14 a@reg15 championship@reg16 game.@reg17
+?q26a Was it the coaches who were drafted? N
+# narwhal 26 b
+The@reg0 players@reg1 that@reg2 no@reg3 coaches@reg4 have@reg5 drafted@reg6 for@reg7 the@reg8 team@reg9 have@reg10 ever@reg11 felt@reg12 nervousness@reg13 before@reg14 a@reg15 championship@reg16 game.@reg17
+?q26b Was it the coaches who were drafted? N
+# narwhal 26 c
+The@reg0 players@reg1 that@reg2 the@reg3 coaches@reg4 haven't@reg5 drafted@reg6 for@reg7 the@reg8 team@reg9 have@reg10 ever@reg11 felt@reg12 nervousness@reg13 before@reg14 a@reg15 championship@reg16 game.@reg17
+?q26c Was it the coaches who were drafted? N
+# narwhal 26 d
+The@reg0 players@reg1 that@reg2 the@reg3 coaches@reg4 have@reg5 drafted@reg6 for@reg7 the@reg8 team@reg9 have@reg10 ever@reg11 felt@reg12 nervousness@reg13 before@reg14 a@reg15 championship@reg16 game.@reg17
+?q26d Was it the coaches who were drafted? N
+# narwhal 27 a
+No@reg0 voters@reg1 that@reg2 the@reg3 senators@reg4 have@reg5 courted@reg6 at@reg7 campaign@reg8 rallies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 a@reg15 major@reg16 election@reg17
+?q27a Was it the dictators who were intolerant? Y
+# narwhal 27 b
+The@reg0 voters@reg1 that@reg2 no@reg3 senators@reg4 have@reg5 courted@reg6 at@reg7 campaign@reg8 rallies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 a@reg15 major@reg16 election@reg17
+?q27b Was it the dictators who were intolerant? Y
+# narwhal 27 c
+The@reg0 voters@reg1 that@reg2 the@reg3 senators@reg4 haven't@reg5 courted@reg6 at@reg7 campaign@reg8 rallies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 a@reg15 major@reg16 election@reg17
+?q27c Was it the dictators who were intolerant? Y
+# narwhal 27 d
+The@reg0 voters@reg1 that@reg2 the@reg3 senators@reg4 have@reg5 courted@reg6 at@reg7 campaign@reg8 rallies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 a@reg15 major@reg16 election@reg17
+?q27d Was it the dictators who were intolerant? Y
+# narwhal 28 a
+No@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 have@reg5 visited@reg6 during@reg7 office@reg8 hours@reg9 have@reg10 ever@reg11 experienced@reg12 tiredness@reg13 after@reg14 a@reg15 long@reg16 lecture.@reg17
+?q28a Were all of the lectures short? N
+# narwhal 28 b
+The@reg0 professors@reg1 that@reg2 no@reg3 students@reg4 have@reg5 visited@reg6 during@reg7 office@reg8 hours@reg9 have@reg10 ever@reg11 experienced@reg12 tiredness@reg13 after@reg14 a@reg15 long@reg16 lecture.@reg17
+?q28b Were all of the lectures short? N
+# narwhal 28 c
+The@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 haven't@reg5 visited@reg6 during@reg7 office@reg8 hours@reg9 have@reg10 ever@reg11 experienced@reg12 tiredness@reg13 after@reg14 a@reg15 long@reg16 lecture.@reg17
+?q28c Were all of the lectures short? N
+# narwhal 28 d
+The@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 have@reg5 visited@reg6 during@reg7 office@reg8 hours@reg9 have@reg10 ever@reg11 experienced@reg12 tiredness@reg13 after@reg14 a@reg15 long@reg16 lecture.@reg17
+?q28d Were all of the lectures short? N
+# narwhal 29 a
+No@reg0 actors@reg1 that@reg2 the@reg3 judges@reg4 have@reg5 nominated@reg6 for@reg7 an@reg8 award@reg9 have@reg10 ever@reg11 experienced@reg12 derision@reg13 from@reg14 the@reg15 tabloid@reg16 gossip.@reg17
+?q29a Was it the judges who were nominated? N
+# narwhal 29 b
+The@reg0 actors@reg1 that@reg2 no@reg3 judges@reg4 have@reg5 nominated@reg6 for@reg7 an@reg8 award@reg9 have@reg10 ever@reg11 experienced@reg12 derision@reg13 from@reg14 the@reg15 tabloid@reg16 gossip.@reg17
+?q29b Was it the judges who were nominated? N
+# narwhal 29 c
+The@reg0 actors@reg1 that@reg2 the@reg3 judges@reg4 haven't@reg5 nominated@reg6 for@reg7 an@reg8 award@reg9 have@reg10 ever@reg11 experienced@reg12 derision@reg13 from@reg14 the@reg15 tabloid@reg16 gossip.@reg17
+?q29c Was it the judges who were nominated? N
+# narwhal 29 d
+The@reg0 actors@reg1 that@reg2 the@reg3 judges@reg4 have@reg5 nominated@reg6 for@reg7 an@reg8 award@reg9 have@reg10 ever@reg11 experienced@reg12 derision@reg13 from@reg14 the@reg15 tabloid@reg16 gossip.@reg17
+?q29d Was it the judges who were nominated? N
+# narwhal 30 a
+No@reg0 actresses@reg1 that@reg2 the@reg3 directors@reg4 have@reg5 auditioned@reg6 for@reg7 the@reg8 role@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 on@reg14 a@reg15 large@reg16 stage.@reg17
+?q30a Was it the directors who were auditioned? N
+# narwhal 30 b
+The@reg0 actresses@reg1 that@reg2 no@reg3 directors@reg4 have@reg5 auditioned@reg6 for@reg7 the@reg8 role@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 on@reg14 a@reg15 large@reg16 stage.@reg17
+?q30b Was it the directors who were auditioned? N
+# narwhal 30 c
+The@reg0 actresses@reg1 that@reg2 the@reg3 directors@reg4 haven't@reg5 auditioned@reg6 for@reg7 the@reg8 role@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 on@reg14 a@reg15 large@reg16 stage.@reg17
+?q30c Was it the directors who were auditioned? N
+# narwhal 30 d
+The@reg0 actresses@reg1 that@reg2 the@reg3 directors@reg4 have@reg5 auditioned@reg6 for@reg7 the@reg8 role@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 on@reg14 a@reg15 large@reg16 stage.@reg17
+?q30d Was it the directors who were auditioned? N
+# narwhal 31 a
+No@reg0 champions@reg1 that@reg2 the@reg3 competitors@reg4 have@reg5 defeated@reg6 in@reg7 important@reg8 races@reg9 have@reg10 ever@reg11 shown@reg12 humility@reg13 after@reg14 a@reg15 big@reg16 win.@reg17
+?q31a Were the races important? Y
+# narwhal 31 b
+The@reg0 champions@reg1 that@reg2 no@reg3 competitors@reg4 have@reg5 defeated@reg6 in@reg7 important@reg8 races@reg9 have@reg10 ever@reg11 shown@reg12 humility@reg13 after@reg14 a@reg15 big@reg16 win.@reg17
+?q31b Were the races important? Y
+# narwhal 31 c
+The@reg0 champions@reg1 that@reg2 the@reg3 competitors@reg4 haven't@reg5 defeated@reg6 in@reg7 important@reg8 races@reg9 have@reg10 ever@reg11 shown@reg12 humility@reg13 after@reg14 a@reg15 big@reg16 win.@reg17
+?q31c Were the races important? Y
+# narwhal 31 d
+The@reg0 champions@reg1 that@reg2 the@reg3 competitors@reg4 have@reg5 defeated@reg6 in@reg7 important@reg8 races@reg9 have@reg10 ever@reg11 shown@reg12 humility@reg13 after@reg14 a@reg15 big@reg16 win.@reg17
+?q31d Were the races important? Y
+# narwhal 32 a
+No@reg0 painters@reg1 that@reg2 the@reg3 collectors@reg4 have@reg5 favored@reg6 at@reg7 prestigious@reg8 exhibitions@reg9 have@reg10 ever@reg11 depicted@reg12 tranquility@reg13 with@reg14 very@reg15 bright@reg16 colors.@reg17
+?q32a Were the exhibitions prestigious? Y
+# narwhal 32 b
+The@reg0 painters@reg1 that@reg2 no@reg3 collectors@reg4 have@reg5 favored@reg6 at@reg7 prestigious@reg8 exhibitions@reg9 have@reg10 ever@reg11 depicted@reg12 tranquility@reg13 with@reg14 very@reg15 bright@reg16 colors.@reg17
+?q32b Were the exhibitions prestigious? Y
+# narwhal 32 c
+The@reg0 painters@reg1 that@reg2 the@reg3 collectors@reg4 haven't@reg5 favored@reg6 at@reg7 prestigious@reg8 exhibitions@reg9 have@reg10 ever@reg11 depicted@reg12 tranquility@reg13 with@reg14 very@reg15 bright@reg16 colors.@reg17
+?q32c Were the exhibitions prestigious? Y
+# narwhal 32 d
+The@reg0 painters@reg1 that@reg2 the@reg3 collectors@reg4 have@reg5 favored@reg6 at@reg7 prestigious@reg8 exhibitions@reg9 have@reg10 ever@reg11 depicted@reg12 tranquility@reg13 with@reg14 very@reg15 bright@reg16 colors.@reg17
+?q32d Were the exhibitions prestigious? Y
+# narwhal 33 a
+No@reg0 editors@reg1 that@reg2 the@reg3 journalists@reg4 have@reg5 insulted@reg6 in@reg7 stressful@reg8 meetings@reg9 have@reg10 ever@reg11 had@reg12 patience@reg13 for@reg14 a@reg15 missed@reg16 deadline.@reg17
+?q33a Were the meetings stressful? Y
+# narwhal 33 b
+The@reg0 editors@reg1 that@reg2 no@reg3 journalists@reg4 have@reg5 insulted@reg6 in@reg7 stressful@reg8 meetings@reg9 have@reg10 ever@reg11 had@reg12 patience@reg13 for@reg14 a@reg15 missed@reg16 deadline.@reg17
+?q33b Were the meetings stressful? Y
+# narwhal 33 c
+The@reg0 editors@reg1 that@reg2 the@reg3 journalists@reg4 haven't@reg5 insulted@reg6 in@reg7 stressful@reg8 meetings@reg9 have@reg10 ever@reg11 had@reg12 patience@reg13 for@reg14 a@reg15 missed@reg16 deadline.@reg17
+?q33c Were the meetings stressful? Y
+# narwhal 33 d
+The@reg0 editors@reg1 that@reg2 the@reg3 journalists@reg4 have@reg5 insulted@reg6 in@reg7 stressful@reg8 meetings@reg9 have@reg10 ever@reg11 had@reg12 patience@reg13 for@reg14 a@reg15 missed@reg16 deadline.@reg17
+?q33d Were the meetings stressful? Y
+# narwhal 34 a
+No@reg0 teenagers@reg1 that@reg2 the@reg3 teachers@reg4 have@reg5 scolded@reg6 for@reg7 their@reg8 chattiness@reg9 have@reg10 ever@reg11 experienced@reg12 loneliness@reg13 in@reg14 the@reg15 large@reg16 class.@reg17
+?q34a Was the class small? N
+# narwhal 34 b
+The@reg0 teenagers@reg1 that@reg2 no@reg3 teachers@reg4 have@reg5 scolded@reg6 for@reg7 their@reg8 chattiness@reg9 have@reg10 ever@reg11 experienced@reg12 loneliness@reg13 in@reg14 the@reg15 large@reg16 class.@reg17
+?q34b Was the class small? N
+# narwhal 34 c
+The@reg0 teenagers@reg1 that@reg2 the@reg3 teachers@reg4 haven't@reg5 scolded@reg6 for@reg7 their@reg8 chattiness@reg9 have@reg10 ever@reg11 experienced@reg12 loneliness@reg13 in@reg14 the@reg15 large@reg16 class.@reg17
+?q34c Was the class small? N
+# narwhal 34 d
+The@reg0 teenagers@reg1 that@reg2 the@reg3 teachers@reg4 have@reg5 scolded@reg6 for@reg7 their@reg8 chattiness@reg9 have@reg10 ever@reg11 experienced@reg12 loneliness@reg13 in@reg14 the@reg15 large@reg16 class.@reg17
+?q34d Was the class small? N
+# narwhal 35 a
+No@reg0 students@reg1 that@reg2 the@reg3 professors@reg4 have@reg5 tutored@reg6 on@reg7 the@reg8 weekends@reg9 have@reg10 ever@reg11 had@reg12 trouble@reg13 in@reg14 a@reg15 math@reg16 class.@reg17
+?q35a Were the classes math classes? Y
+# narwhal 35 b
+The@reg0 students@reg1 that@reg2 no@reg3 professors@reg4 have@reg5 tutored@reg6 on@reg7 the@reg8 weekends@reg9 have@reg10 ever@reg11 had@reg12 trouble@reg13 in@reg14 a@reg15 math@reg16 class.@reg17
+?q35b Were the classes math classes? Y
+# narwhal 35 c
+The@reg0 students@reg1 that@reg2 the@reg3 professors@reg4 haven't@reg5 tutored@reg6 on@reg7 the@reg8 weekends@reg9 have@reg10 ever@reg11 had@reg12 trouble@reg13 in@reg14 a@reg15 math@reg16 class.@reg17
+?q35c Were the classes math classes? Y
+# narwhal 35 d
+The@reg0 students@reg1 that@reg2 the@reg3 professors@reg4 have@reg5 tutored@reg6 on@reg7 the@reg8 weekends@reg9 have@reg10 ever@reg11 had@reg12 trouble@reg13 in@reg14 a@reg15 math@reg16 class.@reg17
+?q35d Were the classes math classes? Y
+# narwhal 36 a
+No@reg0 actors@reg1 that@reg2 the@reg3 children@reg4 have@reg5 seen@reg6 in@reg7 family@reg8 films@reg9 have@reg10 ever@reg11 shown@reg12 gore@reg13 during@reg14 a@reg15 fight@reg16 scene.@reg17
+?q36a Were the films family-oriented? Y
+# narwhal 36 b
+The@reg0 actors@reg1 that@reg2 no@reg3 children@reg4 have@reg5 seen@reg6 in@reg7 family@reg8 films@reg9 have@reg10 ever@reg11 shown@reg12 gore@reg13 during@reg14 a@reg15 fight@reg16 scene.@reg17
+?q36b Were the films family-oriented? Y
+# narwhal 36 c
+The@reg0 actors@reg1 that@reg2 the@reg3 children@reg4 haven't@reg5 seen@reg6 in@reg7 family@reg8 films@reg9 have@reg10 ever@reg11 shown@reg12 gore@reg13 during@reg14 a@reg15 fight@reg16 scene.@reg17
+?q36c Were the films family-oriented? Y
+# narwhal 36 d
+The@reg0 actors@reg1 that@reg2 the@reg3 children@reg4 have@reg5 seen@reg6 in@reg7 family@reg8 films@reg9 have@reg10 ever@reg11 shown@reg12 gore@reg13 during@reg14 a@reg15 fight@reg16 scene.@reg17
+?q36d Were the films family-oriented? Y
+# narwhal 1 a
+No@reg0 authors@reg1 that@reg2 the@reg3 critics@reg4 have@reg5 recommended@reg6 in@reg7 their@reg8 reviews@reg9 have@reg10 ever@reg11 received@reg12 acknowledgment@reg13 for@reg14 a@reg15 best-selling@reg16 novel.@reg17
+?q1a Was it the critics who wrote the reviews? Y
+# narwhal 1 b
+The@reg0 authors@reg1 that@reg2 no@reg3 critics@reg4 have@reg5 recommended@reg6 in@reg7 their@reg8 reviews@reg9 have@reg10 ever@reg11 received@reg12 acknowledgment@reg13 for@reg14 a@reg15 best-selling@reg16 novel.@reg17
+?q1b Was it the critics who wrote the reviews? Y
+# narwhal 1 c
+The@reg0 authors@reg1 that@reg2 the@reg3 critics@reg4 haven't@reg5 recommended@reg6 in@reg7 their@reg8 reviews@reg9 have@reg10 ever@reg11 received@reg12 acknowledgment@reg13 for@reg14 a@reg15 best-selling@reg16 novel.@reg17
+?q1c Was it the critics who wrote the reviews? Y
+# narwhal 1 d
+The@reg0 authors@reg1 that@reg2 the@reg3 critics@reg4 have@reg5 recommended@reg6 in@reg7 their@reg8 reviews@reg9 have@reg10 ever@reg11 received@reg12 acknowledgment@reg13 for@reg14 a@reg15 best-selling@reg16 novel.@reg17
+?q1d Was it the critics who wrote the reviews? Y
+# narwhal 2 a
+No@reg0 soldiers@reg1 that@reg2 the@reg3 diplomats@reg4 have@reg5 supported@reg6 in@reg7 the@reg8 trial@reg9 have@reg10 ever@reg11 shown@reg12 respect@reg13 to@reg14 the@reg15 war@reg16 victims.@reg17
+?q2a Were the victims injured in an industrial accident? N
+# narwhal 2 b
+The@reg0 soldiers@reg1 that@reg2 no@reg3 diplomats@reg4 have@reg5 supported@reg6 in@reg7 the@reg8 trial@reg9 have@reg10 ever@reg11 shown@reg12 respect@reg13 to@reg14 the@reg15 war@reg16 victims.@reg17
+?q2b Were the victims injured in an industrial accident? N
+# narwhal 2 c
+The@reg0 soldiers@reg1 that@reg2 the@reg3 diplomats@reg4 haven't@reg5 supported@reg6 in@reg7 the@reg8 trial@reg9 have@reg10 ever@reg11 shown@reg12 respect@reg13 to@reg14 the@reg15 war@reg16 victims.@reg17
+?q2c Were the victims injured in an industrial accident? N
+# narwhal 2 d
+The@reg0 soldiers@reg1 that@reg2 the@reg3 diplomats@reg4 have@reg5 supported@reg6 in@reg7 the@reg8 trial@reg9 have@reg10 ever@reg11 shown@reg12 respect@reg13 to@reg14 the@reg15 war@reg16 victims.@reg17
+?q2d Were the victims injured in an industrial accident? N
+# narwhal 3 a
+No@reg0 ambassadors@reg1 that@reg2 the@reg3 diplomats@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 treaty@reg9 have@reg10 ever@reg11 seen@reg12 brutality@reg13 in@reg14 the@reg15 foreign@reg16 war.@reg17
+?q3a Was the war a domestic war? N
+# narwhal 3 b
+The@reg0 ambassadors@reg1 that@reg2 no@reg3 diplomats@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 treaty@reg9 have@reg10 ever@reg11 seen@reg12 brutality@reg13 in@reg14 the@reg15 foreign@reg16 war.@reg17
+?q3b Was the war a domestic war? N
+# narwhal 3 c
+The@reg0 ambassadors@reg1 that@reg2 the@reg3 diplomats@reg4 haven't@reg5 consulted@reg6 about@reg7 the@reg8 treaty@reg9 have@reg10 ever@reg11 seen@reg12 brutality@reg13 in@reg14 the@reg15 foreign@reg16 war.@reg17
+?q3c Was the war a domestic war? N
+# narwhal 3 d
+The@reg0 ambassadors@reg1 that@reg2 the@reg3 diplomats@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 treaty@reg9 have@reg10 ever@reg11 seen@reg12 brutality@reg13 in@reg14 the@reg15 foreign@reg16 war.@reg17
+?q3d Was the war a domestic war? N
+# narwhal 4 a
+No@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 have@reg5 challenged@reg6 over@reg7 low@reg8 grades@reg9 have@reg10 ever@reg11 wanted@reg12 negativity@reg13 in@reg14 a@reg15 class@reg16 debate.@reg17
+?q4a Were there debates in the class? Y
+# narwhal 4 b
+The@reg0 professors@reg1 that@reg2 no@reg3 students@reg4 have@reg5 challenged@reg6 over@reg7 low@reg8 grades@reg9 have@reg10 ever@reg11 wanted@reg12 negativity@reg13 in@reg14 a@reg15 class@reg16 debate.@reg17
+?q4b Were there debates in the class? Y
+# narwhal 4 c
+The@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 haven't@reg5 challenged@reg6 over@reg7 low@reg8 grades@reg9 have@reg10 ever@reg11 wanted@reg12 negativity@reg13 in@reg14 a@reg15 class@reg16 debate.@reg17
+?q4c Were there debates in the class? Y
+# narwhal 4 d
+The@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 have@reg5 challenged@reg6 over@reg7 low@reg8 grades@reg9 have@reg10 ever@reg11 wanted@reg12 negativity@reg13 in@reg14 a@reg15 class@reg16 debate.@reg17
+?q4d Were there debates in the class? Y
+# narwhal 5 a
+No@reg0 customers@reg1 that@reg2 the@reg3 salesmen@reg4 have@reg5 assisted@reg6 in@reg7 the@reg8 outlet@reg9 have@reg10 ever@reg11 expressed@reg12 optimism@reg13 for@reg14 a@reg15 full@reg16 refund.@reg17
+?q5a Were the refunds full refunds? Y
+# narwhal 5 b
+The@reg0 customers@reg1 that@reg2 no@reg3 salesmen@reg4 have@reg5 assisted@reg6 in@reg7 the@reg8 outlet@reg9 have@reg10 ever@reg11 expressed@reg12 optimism@reg13 for@reg14 a@reg15 full@reg16 refund.@reg17
+?q5b Were the refunds full refunds? Y
+# narwhal 5 c
+The@reg0 customers@reg1 that@reg2 the@reg3 salesmen@reg4 haven't@reg5 assisted@reg6 in@reg7 the@reg8 outlet@reg9 have@reg10 ever@reg11 expressed@reg12 optimism@reg13 for@reg14 a@reg15 full@reg16 refund.@reg17
+?q5c Were the refunds full refunds? Y
+# narwhal 5 d
+The@reg0 customers@reg1 that@reg2 the@reg3 salesmen@reg4 have@reg5 assisted@reg6 in@reg7 the@reg8 outlet@reg9 have@reg10 ever@reg11 expressed@reg12 optimism@reg13 for@reg14 a@reg15 full@reg16 refund.@reg17
+?q5d Were the refunds full refunds? Y
+# narwhal 6 a
+No@reg0 diplomats@reg1 that@reg2 the@reg3 politicians@reg4 have@reg5 informed@reg6 of@reg7 recent@reg8 policies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 the@reg15 liberal@reg16 newspapers.@reg17
+?q6a Were the newspapers conservative? N
+# narwhal 6 b
+The@reg0 diplomats@reg1 that@reg2 no@reg3 politicians@reg4 have@reg5 informed@reg6 of@reg7 recent@reg8 policies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 the@reg15 liberal@reg16 newspapers.@reg17
+?q6b Were the newspapers conservative? N
+# narwhal 6 c
+The@reg0 diplomats@reg1 that@reg2 the@reg3 politicians@reg4 haven't@reg5 informed@reg6 of@reg7 recent@reg8 policies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 the@reg15 liberal@reg16 newspapers.@reg17
+?q6c Were the newspapers conservative? N
+# narwhal 6 d
+The@reg0 diplomats@reg1 that@reg2 the@reg3 politicians@reg4 have@reg5 informed@reg6 of@reg7 recent@reg8 policies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 the@reg15 liberal@reg16 newspapers.@reg17
+?q6d Were the newspapers conservative? N
+# narwhal 7 a
+No@reg0 maids@reg1 that@reg2 the@reg3 housewives@reg4 have@reg5 thanked@reg6 for@reg7 their@reg8 work@reg9 have@reg10 ever@reg11 caused@reg12 damage@reg13 to@reg14 the@reg15 delicate@reg16 clothing.@reg17
+?q7a Was the clothing delicate? Y
+# narwhal 7 b
+The@reg0 maids@reg1 that@reg2 no@reg3 housewives@reg4 have@reg5 thanked@reg6 for@reg7 their@reg8 work@reg9 have@reg10 ever@reg11 caused@reg12 damage@reg13 to@reg14 the@reg15 delicate@reg16 clothing.@reg17
+?q7b Was the clothing delicate? Y
+# narwhal 7 c
+The@reg0 maids@reg1 that@reg2 the@reg3 housewives@reg4 haven't@reg5 thanked@reg6 for@reg7 their@reg8 work@reg9 have@reg10 ever@reg11 caused@reg12 damage@reg13 to@reg14 the@reg15 delicate@reg16 clothing.@reg17
+?q7c Was the clothing delicate? Y
+# narwhal 7 d
+The@reg0 maids@reg1 that@reg2 the@reg3 housewives@reg4 have@reg5 thanked@reg6 for@reg7 their@reg8 work@reg9 have@reg10 ever@reg11 caused@reg12 damage@reg13 to@reg14 the@reg15 delicate@reg16 clothing.@reg17
+?q7d Was the clothing delicate? Y
+# narwhal 8 a
+No@reg0 lawyers@reg1 that@reg2 the@reg3 businessmen@reg4 have@reg5 hired@reg6 for@reg7 legal@reg8 advice@reg9 have@reg10 ever@reg11 received@reg12 criticism@reg13 for@reg14 lost@reg15 fraud@reg16 trials.@reg17
+?q8a Were the trials for fraud? Y
+# narwhal 8 b
+The@reg0 lawyers@reg1 that@reg2 no@reg3 businessmen@reg4 have@reg5 hired@reg6 for@reg7 legal@reg8 advice@reg9 have@reg10 ever@reg11 received@reg12 criticism@reg13 for@reg14 lost@reg15 fraud@reg16 trials.@reg17
+?q8b Were the trials for fraud? Y
+# narwhal 8 c
+The@reg0 lawyers@reg1 that@reg2 the@reg3 businessmen@reg4 haven't@reg5 hired@reg6 for@reg7 legal@reg8 advice@reg9 have@reg10 ever@reg11 received@reg12 criticism@reg13 for@reg14 lost@reg15 fraud@reg16 trials.@reg17
+?q8c Were the trials for fraud? Y
+# narwhal 8 d
+The@reg0 lawyers@reg1 that@reg2 the@reg3 businessmen@reg4 have@reg5 hired@reg6 for@reg7 legal@reg8 advice@reg9 have@reg10 ever@reg11 received@reg12 criticism@reg13 for@reg14 lost@reg15 fraud@reg16 trials.@reg17
+?q8d Were the trials for fraud? Y
+# narwhal 9 a
+No@reg0 students@reg1 that@reg2 the@reg3 teachers@reg4 have@reg5 punished@reg6 for@reg7 bad@reg8 behavior@reg9 have@reg10 ever@reg11 expected@reg12 friendliness@reg13 from@reg14 the@reg15 strict@reg16 principal.@reg17
+?q9a Was the principal lenient? N
+# narwhal 9 b
+The@reg0 students@reg1 that@reg2 no@reg3 teachers@reg4 have@reg5 punished@reg6 for@reg7 bad@reg8 behavior@reg9 have@reg10 ever@reg11 expected@reg12 friendliness@reg13 from@reg14 the@reg15 strict@reg16 principal.@reg17
+?q9b Was the principal lenient? N
+# narwhal 9 c
+The@reg0 students@reg1 that@reg2 the@reg3 teachers@reg4 haven't@reg5 punished@reg6 for@reg7 bad@reg8 behavior@reg9 have@reg10 ever@reg11 expected@reg12 friendliness@reg13 from@reg14 the@reg15 strict@reg16 principal.@reg17
+?q9c Was the principal lenient? N
+# narwhal 9 d
+The@reg0 students@reg1 that@reg2 the@reg3 teachers@reg4 have@reg5 punished@reg6 for@reg7 bad@reg8 behavior@reg9 have@reg10 ever@reg11 expected@reg12 friendliness@reg13 from@reg14 the@reg15 strict@reg16 principal.@reg17
+?q9d Was the principal lenient? N
+# narwhal 10 a
+No@reg0 babysitters@reg1 that@reg2 the@reg3 children@reg4 have@reg5 disobeyed@reg6 during@reg7 an@reg8 outing@reg9 have@reg10 ever@reg11 expected@reg12 gratitude@reg13 from@reg14 the@reg15 disappointed@reg16 parents.@reg17
+?q10a Were the parents pleased? N
+# narwhal 10 b
+The@reg0 babysitters@reg1 that@reg2 no@reg3 children@reg4 have@reg5 disobeyed@reg6 during@reg7 an@reg8 outing@reg9 have@reg10 ever@reg11 expected@reg12 gratitude@reg13 from@reg14 the@reg15 disappointed@reg16 parents.@reg17
+?q10b Were the parents pleased? N
+# narwhal 10 c
+The@reg0 babysitters@reg1 that@reg2 the@reg3 children@reg4 haven't@reg5 disobeyed@reg6 during@reg7 an@reg8 outing@reg9 have@reg10 ever@reg11 expected@reg12 gratitude@reg13 from@reg14 the@reg15 disappointed@reg16 parents.@reg17
+?q10c Were the parents pleased? N
+# narwhal 10 d
+The@reg0 babysitters@reg1 that@reg2 the@reg3 children@reg4 have@reg5 disobeyed@reg6 during@reg7 an@reg8 outing@reg9 have@reg10 ever@reg11 expected@reg12 gratitude@reg13 from@reg14 the@reg15 disappointed@reg16 parents.@reg17
+?q10d Were the parents pleased? N
+# narwhal 11 a
+No@reg0 actors@reg1 that@reg2 the@reg3 producers@reg4 have@reg5 solicited@reg6 for@reg7 their@reg8 films@reg9 have@reg10 ever@reg11 experienced@reg12 injuries@reg13 from@reg14 a@reg15 dangerous@reg16 stunt.@reg17
+?q11a Were all of the stunts safe? N
+# narwhal 11 b
+The@reg0 actors@reg1 that@reg2 no@reg3 producers@reg4 have@reg5 solicited@reg6 for@reg7 their@reg8 films@reg9 have@reg10 ever@reg11 experienced@reg12 injuries@reg13 from@reg14 a@reg15 dangerous@reg16 stunt.@reg17
+?q11b Were all of the stunts safe? N
+# narwhal 11 c
+The@reg0 actors@reg1 that@reg2 the@reg3 producers@reg4 haven't@reg5 solicited@reg6 for@reg7 their@reg8 films@reg9 have@reg10 ever@reg11 experienced@reg12 injuries@reg13 from@reg14 a@reg15 dangerous@reg16 stunt.@reg17
+?q11c Were all of the stunts safe? N
+# narwhal 11 d
+The@reg0 actors@reg1 that@reg2 the@reg3 producers@reg4 have@reg5 solicited@reg6 for@reg7 their@reg8 films@reg9 have@reg10 ever@reg11 experienced@reg12 injuries@reg13 from@reg14 a@reg15 dangerous@reg16 stunt.@reg17
+?q11d Were all of the stunts safe? N
+# narwhal 12 a
+No@reg0 teachers@reg1 that@reg2 the@reg3 parents@reg4 have@reg5 commended@reg6 in@reg7 PTA@reg8 meetings@reg9 have@reg10 ever@reg11 caused@reg12 problems@reg13 with@reg14 the@reg15 school@reg16 administrators.@reg17
+?q12a Were the meetings held by the PTA? Y
+# narwhal 12 b
+The@reg0 teachers@reg1 that@reg2 no@reg3 parents@reg4 have@reg5 commended@reg6 in@reg7 PTA@reg8 meetings@reg9 have@reg10 ever@reg11 caused@reg12 problems@reg13 with@reg14 the@reg15 school@reg16 administrators.@reg17
+?q12b Were the meetings held by the PTA? Y
+# narwhal 12 c
+The@reg0 teachers@reg1 that@reg2 the@reg3 parents@reg4 haven't@reg5 commended@reg6 in@reg7 PTA@reg8 meetings@reg9 have@reg10 ever@reg11 caused@reg12 problems@reg13 with@reg14 the@reg15 school@reg16 administrators.@reg17
+?q12c Were the meetings held by the PTA? Y
+# narwhal 12 d
+The@reg0 teachers@reg1 that@reg2 the@reg3 parents@reg4 have@reg5 commended@reg6 in@reg7 PTA@reg8 meetings@reg9 have@reg10 ever@reg11 caused@reg12 problems@reg13 with@reg14 the@reg15 school@reg16 administrators.@reg17
+?q12d Were the meetings held by the PTA? Y
+# narwhal 13 a
+No@reg0 students@reg1 that@reg2 the@reg3 librarians@reg4 have@reg5 helped@reg6 with@reg7 book@reg8 reports@reg9 have@reg10 ever@reg11 made@reg12 progress@reg13 on@reg14 the@reg15 difficult@reg16 assignment.@reg17
+?q13a Was the assignment easy? N
+# narwhal 13 b
+The@reg0 students@reg1 that@reg2 no@reg3 librarians@reg4 have@reg5 helped@reg6 with@reg7 book@reg8 reports@reg9 have@reg10 ever@reg11 made@reg12 progress@reg13 on@reg14 the@reg15 difficult@reg16 assignment.@reg17
+?q13b Was the assignment easy? N
+# narwhal 13 c
+The@reg0 students@reg1 that@reg2 the@reg3 librarians@reg4 haven't@reg5 helped@reg6 with@reg7 book@reg8 reports@reg9 have@reg10 ever@reg11 made@reg12 progress@reg13 on@reg14 the@reg15 difficult@reg16 assignment.@reg17
+?q13c Was the assignment easy? N
+# narwhal 13 d
+The@reg0 students@reg1 that@reg2 the@reg3 librarians@reg4 have@reg5 helped@reg6 with@reg7 book@reg8 reports@reg9 have@reg10 ever@reg11 made@reg12 progress@reg13 on@reg14 the@reg15 difficult@reg16 assignment.@reg17
+?q13d Was the assignment easy? N
+# narwhal 14 a
+No@reg0 nurses@reg1 that@reg2 the@reg3 doctors@reg4 have@reg5 requested@reg6 for@reg7 the@reg8 surgery@reg9 have@reg10 ever@reg11 shown@reg12 clumsiness@reg13 in@reg14 the@reg15 operating@reg16 room.@reg17
+?q14a Were the doctors able to request the more adept nurses? Y
+# narwhal 14 b
+The@reg0 nurses@reg1 that@reg2 no@reg3 doctors@reg4 have@reg5 requested@reg6 for@reg7 the@reg8 surgery@reg9 have@reg10 ever@reg11 shown@reg12 clumsiness@reg13 in@reg14 the@reg15 operating@reg16 room.@reg17
+?q14b Were the doctors able to request the more adept nurses? Y
+# narwhal 14 c
+The@reg0 nurses@reg1 that@reg2 the@reg3 doctors@reg4 haven't@reg5 requested@reg6 for@reg7 the@reg8 surgery@reg9 have@reg10 ever@reg11 shown@reg12 clumsiness@reg13 in@reg14 the@reg15 operating@reg16 room.@reg17
+?q14c Were the doctors able to request the more adept nurses? Y
+# narwhal 14 d
+The@reg0 nurses@reg1 that@reg2 the@reg3 doctors@reg4 have@reg5 requested@reg6 for@reg7 the@reg8 surgery@reg9 have@reg10 ever@reg11 shown@reg12 clumsiness@reg13 in@reg14 the@reg15 operating@reg16 room.@reg17
+?q14d Were the doctors able to request the more adept nurses? Y
+# narwhal 15 a
+No@reg0 criminals@reg1 that@reg2 the@reg3 policemen@reg4 have@reg5 caught@reg6 in@reg7 drug@reg8 raids@reg9 have@reg10 ever@reg11 felt@reg12 satisfaction@reg13 from@reg14 a@reg15 petty@reg16 crime.@reg17
+?q15a Were the raids in search of drugs? Y
+# narwhal 15 b
+The@reg0 criminals@reg1 that@reg2 no@reg3 policemen@reg4 have@reg5 caught@reg6 in@reg7 drug@reg8 raids@reg9 have@reg10 ever@reg11 felt@reg12 satisfaction@reg13 from@reg14 a@reg15 petty@reg16 crime.@reg17
+?q15b Were the raids in search of drugs? Y
+# narwhal 15 c
+The@reg0 criminals@reg1 that@reg2 the@reg3 policemen@reg4 haven't@reg5 caught@reg6 in@reg7 drug@reg8 raids@reg9 have@reg10 ever@reg11 felt@reg12 satisfaction@reg13 from@reg14 a@reg15 petty@reg16 crime.@reg17
+?q15c Were the raids in search of drugs? Y
+# narwhal 15 d
+The@reg0 criminals@reg1 that@reg2 the@reg3 policemen@reg4 have@reg5 caught@reg6 in@reg7 drug@reg8 raids@reg9 have@reg10 ever@reg11 felt@reg12 satisfaction@reg13 from@reg14 a@reg15 petty@reg16 crime.@reg17
+?q15d Were the raids in search of drugs? Y
+# narwhal 16 a
+No@reg0 employees@reg1 that@reg2 the@reg3 managers@reg4 have@reg5 recommended@reg6 for@reg7 a@reg8 raise@reg9 have@reg10 ever@reg11 expressed@reg12 frustration@reg13 with@reg14 the@reg15 rude@reg16 customers.@reg17
+?q16a Were all of the customers nice? N
+# narwhal 16 b
+The@reg0 employees@reg1 that@reg2 no@reg3 managers@reg4 have@reg5 recommended@reg6 for@reg7 a@reg8 raise@reg9 have@reg10 ever@reg11 expressed@reg12 frustration@reg13 with@reg14 the@reg15 rude@reg16 customers.@reg17
+?q16b Were all of the customers nice? N
+# narwhal 16 c
+The@reg0 employees@reg1 that@reg2 the@reg3 managers@reg4 haven't@reg5 recommended@reg6 for@reg7 a@reg8 raise@reg9 have@reg10 ever@reg11 expressed@reg12 frustration@reg13 with@reg14 the@reg15 rude@reg16 customers.@reg17
+?q16c Were all of the customers nice? N
+# narwhal 16 d
+The@reg0 employees@reg1 that@reg2 the@reg3 managers@reg4 have@reg5 recommended@reg6 for@reg7 a@reg8 raise@reg9 have@reg10 ever@reg11 expressed@reg12 frustration@reg13 with@reg14 the@reg15 rude@reg16 customers.@reg17
+?q16d Were all of the customers nice? N
+# narwhal 17 a
+No@reg0 accountants@reg1 that@reg2 the@reg3 managers@reg4 have@reg5 blamed@reg6 for@reg7 company@reg8 losses@reg9 have@reg10 ever@reg11 seen@reg12 rises@reg13 in@reg14 the@reg15 quarterly@reg16 profits.@reg17
+?q17a Were the profits reported quarterly? Y
+# narwhal 17 b
+The@reg0 accountants@reg1 that@reg2 no@reg3 managers@reg4 have@reg5 blamed@reg6 for@reg7 company@reg8 losses@reg9 have@reg10 ever@reg11 seen@reg12 rises@reg13 in@reg14 the@reg15 quarterly@reg16 profits.@reg17
+?q17b Were the profits reported quarterly? Y
+# narwhal 17 c
+The@reg0 accountants@reg1 that@reg2 the@reg3 managers@reg4 haven't@reg5 blamed@reg6 for@reg7 company@reg8 losses@reg9 have@reg10 ever@reg11 seen@reg12 rises@reg13 in@reg14 the@reg15 quarterly@reg16 profits.@reg17
+?q17c Were the profits reported quarterly? Y
+# narwhal 17 d
+The@reg0 accountants@reg1 that@reg2 the@reg3 managers@reg4 have@reg5 blamed@reg6 for@reg7 company@reg8 losses@reg9 have@reg10 ever@reg11 seen@reg12 rises@reg13 in@reg14 the@reg15 quarterly@reg16 profits.@reg17
+?q17d Were the profits reported quarterly? Y
+# narwhal 18 a
+No@reg0 candidates@reg1 that@reg2 the@reg3 voters@reg4 have@reg5 supported@reg6 during@reg7 the@reg8 election@reg9 have@reg10 ever@reg11 shown@reg12 friendliness@reg13 to@reg14 the@reg15 rude@reg16 journalists.@reg17
+?q18a Were the journalists kind? N
+# narwhal 18 b
+The@reg0 candidates@reg1 that@reg2 no@reg3 voters@reg4 have@reg5 supported@reg6 during@reg7 the@reg8 election@reg9 have@reg10 ever@reg11 shown@reg12 friendliness@reg13 to@reg14 the@reg15 rude@reg16 journalists.@reg17
+?q18b Were the journalists kind? N
+# narwhal 18 c
+The@reg0 candidates@reg1 that@reg2 the@reg3 voters@reg4 haven't@reg5 supported@reg6 during@reg7 the@reg8 election@reg9 have@reg10 ever@reg11 shown@reg12 friendliness@reg13 to@reg14 the@reg15 rude@reg16 journalists.@reg17
+?q18c Were the journalists kind? N
+# narwhal 18 d
+The@reg0 candidates@reg1 that@reg2 the@reg3 voters@reg4 have@reg5 supported@reg6 during@reg7 the@reg8 election@reg9 have@reg10 ever@reg11 shown@reg12 friendliness@reg13 to@reg14 the@reg15 rude@reg16 journalists.@reg17
+?q18d Were the journalists kind? N
+# narwhal 19 a
+No@reg0 surgeons@reg1 that@reg2 the@reg3 patients@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 operation@reg9 have@reg10 ever@reg11 expressed@reg12 dissatisfaction@reg13 with@reg14 the@reg15 hospital@reg16 staff.@reg17
+?q19a Was it a school that the staff worked at? N
+# narwhal 19 b
+The@reg0 surgeons@reg1 that@reg2 no@reg3 patients@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 operation@reg9 have@reg10 ever@reg11 expressed@reg12 dissatisfaction@reg13 with@reg14 the@reg15 hospital@reg16 staff.@reg17
+?q19b Was it a school that the staff worked at? N
+# narwhal 19 c
+The@reg0 surgeons@reg1 that@reg2 the@reg3 patients@reg4 haven't@reg5 consulted@reg6 about@reg7 the@reg8 operation@reg9 have@reg10 ever@reg11 expressed@reg12 dissatisfaction@reg13 with@reg14 the@reg15 hospital@reg16 staff.@reg17
+?q19c Was it a school that the staff worked at? N
+# narwhal 19 d
+The@reg0 surgeons@reg1 that@reg2 the@reg3 patients@reg4 have@reg5 consulted@reg6 about@reg7 the@reg8 operation@reg9 have@reg10 ever@reg11 expressed@reg12 dissatisfaction@reg13 with@reg14 the@reg15 hospital@reg16 staff.@reg17
+?q19d Was it a school that the staff worked at? N
+# narwhal 20 a
+No@reg0 suspects@reg1 that@reg2 the@reg3 witnesses@reg4 have@reg5 identified@reg6 in@reg7 photo@reg8 line-ups@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 in@reg14 the@reg15 court@reg16 room.@reg17
+?q20a Were the line-ups conducted using photos? Y
+# narwhal 20 b
+The@reg0 suspects@reg1 that@reg2 no@reg3 witnesses@reg4 have@reg5 identified@reg6 in@reg7 photo@reg8 line-ups@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 in@reg14 the@reg15 court@reg16 room.@reg17
+?q20b Were the line-ups conducted using photos? Y
+# narwhal 20 c
+The@reg0 suspects@reg1 that@reg2 the@reg3 witnesses@reg4 haven't@reg5 identified@reg6 in@reg7 photo@reg8 line-ups@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 in@reg14 the@reg15 court@reg16 room.@reg17
+?q20c Were the line-ups conducted using photos? Y
+# narwhal 20 d
+The@reg0 suspects@reg1 that@reg2 the@reg3 witnesses@reg4 have@reg5 identified@reg6 in@reg7 photo@reg8 line-ups@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 in@reg14 the@reg15 court@reg16 room.@reg17
+?q20d Were the line-ups conducted using photos? Y
+# narwhal 21 a
+No@reg0 actresses@reg1 that@reg2 the@reg3 moviegoers@reg4 have@reg5 praised@reg6 for@reg7 their@reg8 performance@reg9 have@reg10 ever@reg11 caused@reg12 excitement@reg13 at@reg14 a@reg15 film@reg16 festival.@reg17
+?q21a Was the festival a music festival? N
+# narwhal 21 b
+The@reg0 actresses@reg1 that@reg2 no@reg3 moviegoers@reg4 have@reg5 praised@reg6 for@reg7 their@reg8 performance@reg9 have@reg10 ever@reg11 caused@reg12 excitement@reg13 at@reg14 a@reg15 film@reg16 festival.@reg17
+?q21b Was the festival a music festival? N
+# narwhal 21 c
+The@reg0 actresses@reg1 that@reg2 the@reg3 moviegoers@reg4 haven't@reg5 praised@reg6 for@reg7 their@reg8 performance@reg9 have@reg10 ever@reg11 caused@reg12 excitement@reg13 at@reg14 a@reg15 film@reg16 festival.@reg17
+?q21c Was the festival a music festival? N
+# narwhal 21 d
+The@reg0 actresses@reg1 that@reg2 the@reg3 moviegoers@reg4 have@reg5 praised@reg6 for@reg7 their@reg8 performance@reg9 have@reg10 ever@reg11 caused@reg12 excitement@reg13 at@reg14 a@reg15 film@reg16 festival.@reg17
+?q21d Was the festival a music festival? N
+# narwhal 22 a
+No@reg0 senators@reg1 that@reg2 the@reg3 billionaires@reg4 have@reg5 supported@reg6 with@reg7 campaign@reg8 donations@reg9 have@reg10 ever@reg11 received@reg12 hostility@reg13 from@reg14 online@reg15 news@reg16 media.@reg17
+?q22a Was the news available online? Y
+# narwhal 22 b
+The@reg0 senators@reg1 that@reg2 no@reg3 billionaires@reg4 have@reg5 supported@reg6 with@reg7 campaign@reg8 donations@reg9 have@reg10 ever@reg11 received@reg12 hostility@reg13 from@reg14 online@reg15 news@reg16 media.@reg17
+?q22b Was the news available online? Y
+# narwhal 22 c
+The@reg0 senators@reg1 that@reg2 the@reg3 billionaires@reg4 haven't@reg5 supported@reg6 with@reg7 campaign@reg8 donations@reg9 have@reg10 ever@reg11 received@reg12 hostility@reg13 from@reg14 online@reg15 news@reg16 media.@reg17
+?q22c Was the news available online? Y
+# narwhal 22 d
+The@reg0 senators@reg1 that@reg2 the@reg3 billionaires@reg4 have@reg5 supported@reg6 with@reg7 campaign@reg8 donations@reg9 have@reg10 ever@reg11 received@reg12 hostility@reg13 from@reg14 online@reg15 news@reg16 media.@reg17
+?q22d Was the news available online? Y
+# narwhal 23 a
+No@reg0 politicians@reg1 that@reg2 the@reg3 journalists@reg4 have@reg5 endorsed@reg6 in@reg7 the@reg8 media@reg9 have@reg10 ever@reg11 earned@reg12 trust@reg13 from@reg14 the@reg15 rural@reg16 communities.@reg17
+?q23a Was it the journalists who were endorsed? N
+# narwhal 23 b
+The@reg0 politicians@reg1 that@reg2 no@reg3 journalists@reg4 have@reg5 endorsed@reg6 in@reg7 the@reg8 media@reg9 have@reg10 ever@reg11 earned@reg12 trust@reg13 from@reg14 the@reg15 rural@reg16 communities.@reg17
+?q23b Was it the journalists who were endorsed? N
+# narwhal 23 c
+The@reg0 politicians@reg1 that@reg2 the@reg3 journalists@reg4 haven't@reg5 endorsed@reg6 in@reg7 the@reg8 media@reg9 have@reg10 ever@reg11 earned@reg12 trust@reg13 from@reg14 the@reg15 rural@reg16 communities.@reg17
+?q23c Was it the journalists who were endorsed? N
+# narwhal 23 d
+The@reg0 politicians@reg1 that@reg2 the@reg3 journalists@reg4 haven@reg5 endorsed@reg6 in@reg7 the@reg8 media@reg9 have@reg10 ever@reg11 earned@reg12 trust@reg13 from@reg14 the@reg15 rural@reg16 communities.@reg17
+?q23d Were all of the siblings well-mannered? N
+# narwhal 24 a
+No@reg0 teenagers@reg1 that@reg2 the@reg3 parents@reg4 have@reg5 trusted@reg6 with@reg7 a@reg8 car@reg9 have@reg10 ever@reg11 expressed@reg12 impatience@reg13 with@reg14 their@reg15 rambunctious@reg16 siblings.@reg17
+?q24a Were all of the siblings well-mannered? N
+# narwhal 24 b
+The@reg0 teenagers@reg1 that@reg2 no@reg3 parents@reg4 have@reg5 trusted@reg6 with@reg7 a@reg8 car@reg9 have@reg10 ever@reg11 expressed@reg12 impatience@reg13 with@reg14 their@reg15 rambunctious@reg16 siblings.@reg17
+?q24b Were all of the siblings well-mannered? N
+# narwhal 24 c
+The@reg0 teenagers@reg1 that@reg2 the@reg3 parents@reg4 haven't@reg5 trusted@reg6 with@reg7 a@reg8 car@reg9 have@reg10 ever@reg11 expressed@reg12 impatience@reg13 with@reg14 their@reg15 rambunctious@reg16 siblings.@reg17
+?q24c Were all of the siblings well-mannered? N
+# narwhal 24 d
+The@reg0 teenagers@reg1 that@reg2 the@reg3 parents@reg4 have@reg5 trusted@reg6 with@reg7 a@reg8 car@reg9 have@reg10 ever@reg11 expressed@reg12 impatience@reg13 with@reg14 their@reg15 rambunctious@reg16 siblings.@reg17
+?q24d Were all of the siblings well-mannered? N
+# narwhal 25 a
+No@reg0 survivors@reg1 that@reg2 the@reg3 medics@reg4 have@reg5 cured@reg6 of@reg7 their@reg8 injuries@reg9 have@reg10 ever@reg11 felt@reg12 regret@reg13 for@reg14 their@reg15 military@reg16 service@reg17
+?q25a Were the injuries suffered in times of war? Y
+# narwhal 25 b
+The@reg0 survivors@reg1 that@reg2 no@reg3 medics@reg4 have@reg5 cured@reg6 of@reg7 their@reg8 injuries@reg9 have@reg10 ever@reg11 felt@reg12 regret@reg13 for@reg14 their@reg15 military@reg16 service@reg17
+?q25b Were the injuries suffered in times of war? Y
+# narwhal 25 c
+The@reg0 survivors@reg1 that@reg2 the@reg3 medics@reg4 haven't@reg5 cured@reg6 of@reg7 their@reg8 injuries@reg9 have@reg10 ever@reg11 felt@reg12 regret@reg13 for@reg14 their@reg15 military@reg16 service@reg17
+?q25c Were the injuries suffered in times of war? Y
+# narwhal 25 d
+The@reg0 survivors@reg1 that@reg2 the@reg3 medics@reg4 have@reg5 cured@reg6 of@reg7 their@reg8 injuries@reg9 have@reg10 ever@reg11 felt@reg12 regret@reg13 for@reg14 their@reg15 military@reg16 service@reg17
+?q25d Were the injuries suffered in times of war? Y
+# narwhal 26 a
+No@reg0 players@reg1 that@reg2 the@reg3 coaches@reg4 have@reg5 drafted@reg6 for@reg7 the@reg8 team@reg9 have@reg10 ever@reg11 felt@reg12 nervousness@reg13 before@reg14 a@reg15 championship@reg16 game.@reg17
+?q26a Was it the coaches who were drafted? N
+# narwhal 26 b
+The@reg0 players@reg1 that@reg2 no@reg3 coaches@reg4 have@reg5 drafted@reg6 for@reg7 the@reg8 team@reg9 have@reg10 ever@reg11 felt@reg12 nervousness@reg13 before@reg14 a@reg15 championship@reg16 game.@reg17
+?q26b Was it the coaches who were drafted? N
+# narwhal 26 c
+The@reg0 players@reg1 that@reg2 the@reg3 coaches@reg4 haven't@reg5 drafted@reg6 for@reg7 the@reg8 team@reg9 have@reg10 ever@reg11 felt@reg12 nervousness@reg13 before@reg14 a@reg15 championship@reg16 game.@reg17
+?q26c Was it the coaches who were drafted? N
+# narwhal 26 d
+The@reg0 players@reg1 that@reg2 the@reg3 coaches@reg4 have@reg5 drafted@reg6 for@reg7 the@reg8 team@reg9 have@reg10 ever@reg11 felt@reg12 nervousness@reg13 before@reg14 a@reg15 championship@reg16 game.@reg17
+?q26d Was it the coaches who were drafted? N
+# narwhal 27 a
+No@reg0 voters@reg1 that@reg2 the@reg3 senators@reg4 have@reg5 courted@reg6 at@reg7 campaign@reg8 rallies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 a@reg15 major@reg16 election@reg17
+?q27a Was it the dictators who were intolerant? Y
+# narwhal 27 b
+The@reg0 voters@reg1 that@reg2 no@reg3 senators@reg4 have@reg5 courted@reg6 at@reg7 campaign@reg8 rallies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 a@reg15 major@reg16 election@reg17
+?q27b Was it the dictators who were intolerant? Y
+# narwhal 27 c
+The@reg0 voters@reg1 that@reg2 the@reg3 senators@reg4 haven't@reg5 courted@reg6 at@reg7 campaign@reg8 rallies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 a@reg15 major@reg16 election@reg17
+?q27c Was it the dictators who were intolerant? Y
+# narwhal 27 d
+The@reg0 voters@reg1 that@reg2 the@reg3 senators@reg4 have@reg5 courted@reg6 at@reg7 campaign@reg8 rallies@reg9 have@reg10 ever@reg11 caused@reg12 controversy@reg13 in@reg14 a@reg15 major@reg16 election@reg17
+?q27d Was it the dictators who were intolerant? Y
+# narwhal 28 a
+No@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 have@reg5 visited@reg6 during@reg7 office@reg8 hours@reg9 have@reg10 ever@reg11 experienced@reg12 tiredness@reg13 after@reg14 a@reg15 long@reg16 lecture.@reg17
+?q28a Were all of the lectures short? N
+# narwhal 28 b
+The@reg0 professors@reg1 that@reg2 no@reg3 students@reg4 have@reg5 visited@reg6 during@reg7 office@reg8 hours@reg9 have@reg10 ever@reg11 experienced@reg12 tiredness@reg13 after@reg14 a@reg15 long@reg16 lecture.@reg17
+?q28b Were all of the lectures short? N
+# narwhal 28 c
+The@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 haven't@reg5 visited@reg6 during@reg7 office@reg8 hours@reg9 have@reg10 ever@reg11 experienced@reg12 tiredness@reg13 after@reg14 a@reg15 long@reg16 lecture.@reg17
+?q28c Were all of the lectures short? N
+# narwhal 28 d
+The@reg0 professors@reg1 that@reg2 the@reg3 students@reg4 have@reg5 visited@reg6 during@reg7 office@reg8 hours@reg9 have@reg10 ever@reg11 experienced@reg12 tiredness@reg13 after@reg14 a@reg15 long@reg16 lecture.@reg17
+?q28d Were all of the lectures short? N
+# narwhal 29 a
+No@reg0 actors@reg1 that@reg2 the@reg3 judges@reg4 have@reg5 nominated@reg6 for@reg7 an@reg8 award@reg9 have@reg10 ever@reg11 experienced@reg12 derision@reg13 from@reg14 the@reg15 tabloid@reg16 gossip.@reg17
+?q29a Was it the judges who were nominated? N
+# narwhal 29 b
+The@reg0 actors@reg1 that@reg2 no@reg3 judges@reg4 have@reg5 nominated@reg6 for@reg7 an@reg8 award@reg9 have@reg10 ever@reg11 experienced@reg12 derision@reg13 from@reg14 the@reg15 tabloid@reg16 gossip.@reg17
+?q29b Was it the judges who were nominated? N
+# narwhal 29 c
+The@reg0 actors@reg1 that@reg2 the@reg3 judges@reg4 haven't@reg5 nominated@reg6 for@reg7 an@reg8 award@reg9 have@reg10 ever@reg11 experienced@reg12 derision@reg13 from@reg14 the@reg15 tabloid@reg16 gossip.@reg17
+?q29c Was it the judges who were nominated? N
+# narwhal 29 d
+The@reg0 actors@reg1 that@reg2 the@reg3 judges@reg4 have@reg5 nominated@reg6 for@reg7 an@reg8 award@reg9 have@reg10 ever@reg11 experienced@reg12 derision@reg13 from@reg14 the@reg15 tabloid@reg16 gossip.@reg17
+?q29d Was it the judges who were nominated? N
+# narwhal 30 a
+No@reg0 actresses@reg1 that@reg2 the@reg3 directors@reg4 have@reg5 auditioned@reg6 for@reg7 the@reg8 role@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 on@reg14 a@reg15 large@reg16 stage.@reg17
+?q30a Was it the directors who were auditioned? N
+# narwhal 30 b
+The@reg0 actresses@reg1 that@reg2 no@reg3 directors@reg4 have@reg5 auditioned@reg6 for@reg7 the@reg8 role@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 on@reg14 a@reg15 large@reg16 stage.@reg17
+?q30b Was it the directors who were auditioned? N
+# narwhal 30 c
+The@reg0 actresses@reg1 that@reg2 the@reg3 directors@reg4 haven't@reg5 auditioned@reg6 for@reg7 the@reg8 role@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 on@reg14 a@reg15 large@reg16 stage.@reg17
+?q30c Was it the directors who were auditioned? N
+# narwhal 30 d
+The@reg0 actresses@reg1 that@reg2 the@reg3 directors@reg4 have@reg5 auditioned@reg6 for@reg7 the@reg8 role@reg9 have@reg10 ever@reg11 shown@reg12 nervousness@reg13 on@reg14 a@reg15 large@reg16 stage.@reg17
+?q30d Was it the directors who were auditioned? N
+# narwhal 31 a
+No@reg0 champions@reg1 that@reg2 the@reg3 competitors@reg4 have@reg5 defeated@reg6 in@reg7 important@reg8 races@reg9 have@reg10 ever@reg11 shown@reg12 humility@reg13 after@reg14 a@reg15 big@reg16 win.@reg17
+?q31a Were the races important? Y
+# narwhal 31 b
+The@reg0 champions@reg1 that@reg2 no@reg3 competitors@reg4 have@reg5 defeated@reg6 in@reg7 important@reg8 races@reg9 have@reg10 ever@reg11 shown@reg12 humility@reg13 after@reg14 a@reg15 big@reg16 win.@reg17
+?q31b Were the races important? Y
+# narwhal 31 c
+The@reg0 champions@reg1 that@reg2 the@reg3 competitors@reg4 haven't@reg5 defeated@reg6 in@reg7 important@reg8 races@reg9 have@reg10 ever@reg11 shown@reg12 humility@reg13 after@reg14 a@reg15 big@reg16 win.@reg17
+?q31c Were the races important? Y
+# narwhal 31 d
+The@reg0 champions@reg1 that@reg2 the@reg3 competitors@reg4 have@reg5 defeated@reg6 in@reg7 important@reg8 races@reg9 have@reg10 ever@reg11 shown@reg12 humility@reg13 after@reg14 a@reg15 big@reg16 win.@reg17
+?q31d Were the races important? Y
+# narwhal 32 a
+No@reg0 painters@reg1 that@reg2 the@reg3 collectors@reg4 have@reg5 favored@reg6 at@reg7 prestigious@reg8 exhibitions@reg9 have@reg10 ever@reg11 depicted@reg12 tranquility@reg13 with@reg14 very@reg15 bright@reg16 colors.@reg17
+?q32a Were the exhibitions prestigious? Y
+# narwhal 32 b
+The@reg0 painters@reg1 that@reg2 no@reg3 collectors@reg4 have@reg5 favored@reg6 at@reg7 prestigious@reg8 exhibitions@reg9 have@reg10 ever@reg11 depicted@reg12 tranquility@reg13 with@reg14 very@reg15 bright@reg16 colors.@reg17
+?q32b Were the exhibitions prestigious? Y
+# narwhal 32 c
+The@reg0 painters@reg1 that@reg2 the@reg3 collectors@reg4 haven't@reg5 favored@reg6 at@reg7 prestigious@reg8 exhibitions@reg9 have@reg10 ever@reg11 depicted@reg12 tranquility@reg13 with@reg14 very@reg15 bright@reg16 colors.@reg17
+?q32c Were the exhibitions prestigious? Y
+# narwhal 32 d
+The@reg0 painters@reg1 that@reg2 the@reg3 collectors@reg4 have@reg5 favored@reg6 at@reg7 prestigious@reg8 exhibitions@reg9 have@reg10 ever@reg11 depicted@reg12 tranquility@reg13 with@reg14 very@reg15 bright@reg16 colors.@reg17
+?q32d Were the exhibitions prestigious? Y
+# narwhal 33 a
+No@reg0 editors@reg1 that@reg2 the@reg3 journalists@reg4 have@reg5 insulted@reg6 in@reg7 stressful@reg8 meetings@reg9 have@reg10 ever@reg11 had@reg12 patience@reg13 for@reg14 a@reg15 missed@reg16 deadline.@reg17
+?q33a Were the meetings stressful? Y
+# narwhal 33 b
+The@reg0 editors@reg1 that@reg2 no@reg3 journalists@reg4 have@reg5 insulted@reg6 in@reg7 stressful@reg8 meetings@reg9 have@reg10 ever@reg11 had@reg12 patience@reg13 for@reg14 a@reg15 missed@reg16 deadline.@reg17
+?q33b Were the meetings stressful? Y
+# narwhal 33 c
+The@reg0 editors@reg1 that@reg2 the@reg3 journalists@reg4 haven't@reg5 insulted@reg6 in@reg7 stressful@reg8 meetings@reg9 have@reg10 ever@reg11 had@reg12 patience@reg13 for@reg14 a@reg15 missed@reg16 deadline.@reg17
+?q33c Were the meetings stressful? Y
+# narwhal 33 d
+The@reg0 editors@reg1 that@reg2 the@reg3 journalists@reg4 have@reg5 insulted@reg6 in@reg7 stressful@reg8 meetings@reg9 have@reg10 ever@reg11 had@reg12 patience@reg13 for@reg14 a@reg15 missed@reg16 deadline.@reg17
+?q33d Were the meetings stressful? Y
+# narwhal 34 a
+No@reg0 teenagers@reg1 that@reg2 the@reg3 teachers@reg4 have@reg5 scolded@reg6 for@reg7 their@reg8 chattiness@reg9 have@reg10 ever@reg11 experienced@reg12 loneliness@reg13 in@reg14 the@reg15 large@reg16 class.@reg17
+?q34a Was the class small? N
+# narwhal 34 b
+The@reg0 teenagers@reg1 that@reg2 no@reg3 teachers@reg4 have@reg5 scolded@reg6 for@reg7 their@reg8 chattiness@reg9 have@reg10 ever@reg11 experienced@reg12 loneliness@reg13 in@reg14 the@reg15 large@reg16 class.@reg17
+?q34b Was the class small? N
+# narwhal 34 c
+The@reg0 teenagers@reg1 that@reg2 the@reg3 teachers@reg4 haven't@reg5 scolded@reg6 for@reg7 their@reg8 chattiness@reg9 have@reg10 ever@reg11 experienced@reg12 loneliness@reg13 in@reg14 the@reg15 large@reg16 class.@reg17
+?q34c Was the class small? N
+# narwhal 34 d
+The@reg0 teenagers@reg1 that@reg2 the@reg3 teachers@reg4 have@reg5 scolded@reg6 for@reg7 their@reg8 chattiness@reg9 have@reg10 ever@reg11 experienced@reg12 loneliness@reg13 in@reg14 the@reg15 large@reg16 class.@reg17
+?q34d Was the class small? N
+# narwhal 35 a
+No@reg0 students@reg1 that@reg2 the@reg3 professors@reg4 have@reg5 tutored@reg6 on@reg7 the@reg8 weekends@reg9 have@reg10 ever@reg11 had@reg12 trouble@reg13 in@reg14 a@reg15 math@reg16 class.@reg17
+?q35a Were the classes math classes? Y
+# narwhal 35 b
+The@reg0 students@reg1 that@reg2 no@reg3 professors@reg4 have@reg5 tutored@reg6 on@reg7 the@reg8 weekends@reg9 have@reg10 ever@reg11 had@reg12 trouble@reg13 in@reg14 a@reg15 math@reg16 class.@reg17
+?q35b Were the classes math classes? Y
+# narwhal 35 c
+The@reg0 students@reg1 that@reg2 the@reg3 professors@reg4 haven't@reg5 tutored@reg6 on@reg7 the@reg8 weekends@reg9 have@reg10 ever@reg11 had@reg12 trouble@reg13 in@reg14 a@reg15 math@reg16 class.@reg17
+?q35c Were the classes math classes? Y
+# narwhal 35 d
+The@reg0 students@reg1 that@reg2 the@reg3 professors@reg4 have@reg5 tutored@reg6 on@reg7 the@reg8 weekends@reg9 have@reg10 ever@reg11 had@reg12 trouble@reg13 in@reg14 a@reg15 math@reg16 class.@reg17
+?q35d Were the classes math classes? Y
+# narwhal 36 a
+No@reg0 actors@reg1 that@reg2 the@reg3 children@reg4 have@reg5 seen@reg6 in@reg7 family@reg8 films@reg9 have@reg10 ever@reg11 shown@reg12 gore@reg13 during@reg14 a@reg15 fight@reg16 scene.@reg17
+?q36a Were the films family-oriented? Y
+# narwhal 36 b
+The@reg0 actors@reg1 that@reg2 no@reg3 children@reg4 have@reg5 seen@reg6 in@reg7 family@reg8 films@reg9 have@reg10 ever@reg11 shown@reg12 gore@reg13 during@reg14 a@reg15 fight@reg16 scene.@reg17
+?q36b Were the films family-oriented? Y
+# narwhal 36 c
+The@reg0 actors@reg1 that@reg2 the@reg3 children@reg4 haven't@reg5 seen@reg6 in@reg7 family@reg8 films@reg9 have@reg10 ever@reg11 shown@reg12 gore@reg13 during@reg14 a@reg15 fight@reg16 scene.@reg17
+?q36c Were the films family-oriented? Y
+# narwhal 36 d
+The@reg0 actors@reg1 that@reg2 the@reg3 children@reg4 have@reg5 seen@reg6 in@reg7 family@reg8 films@reg9 have@reg10 ever@reg11 shown@reg12 gore@reg13 during@reg14 a@reg15 fight@reg16 scene.@reg17
+?q36d Were the films family-oriented? Y
+# practice 8801 -
+One of the guards warned the tourist guide about directing the excursionists to the restricted ruins.
+?q8801 Was the tourist guide warned? Y
+# practice 8802 -
+The upset father thought that his daughter owed him an apology for her bad behavior.
+?q8802 Was the daughter upset? N
+# filler 9901 -
+The refugee found by the soldiers trapped under the rubble got hurt during the difficult rescue.
+?q9901 Did the refugee get hurt? Y
+# filler 9902 -
+The boy who the mother woke early in the morning has bothered her about the trip to the beach.
+?q9902 Was the trip to the beach? Y
+# filler 9903 -
+The veterans who the coach admired for a long time deceived him during the battle.
+?q9903 Was the coach deceived? Y
+# filler 9904 -
+The desperate nuns begged the authorities to take care of them during the war.
+?q9904 Was there a war? Y
+# filler 9905 -
+The zookeeper that watched the monkeys hurt himself with the cage bars while feeding them.
+?q9905 Was the zookeeper feeding the monkeys? Y
+# filler 9906 -
+The waiter who served the lady a cocktail had pricked himself with a broken glass.
+?q9906 Was the lady drinking a cocktail? Y
+# filler 9907 -
+An independent candidate criticized by the senators blamed them for the unemployment rates.
+?q9907 Was the candidate criticized? Y
+# filler 9908 -
+The executive who oversaw the managers doubted himself on most major decisions
+?q9908 Were the decisions minor? Y
+# filler 9909 -
+The man thought that the actress who made a terrible audition owed herself a second chance.
+?q9909 Was the audition terrible? Y
+# filler 9910 -
+The neighbors who the couple observed from the car have purchased the old Victorian house.
+?q9910 Did the couple observed the neighbors? Y
+# filler 9911 -
+The producers sued by the studio denied signing any agreement prior to the production of the single.
+?q9911 Were the producers sued? Y
+# filler 9912 -
+The group of runners who the driver sees each morning on his way to work always wave.
+?q9912 Does the driver see the runners each morning? Y
+# filler 9913 -
+The national critics complimented the director of the play which was opening to rave reviews abroad.
+?q9913 Were the reviews rave? Y
+# filler 9914 -
+The safe opened with explosives was demolished and its contents were completely burned.
+?q9914 Were the contents of the safe destroyed? Y
+# filler 9915 -
+The architects from the firm showed the company the design proposed for the new building.
+?q9915 Did the architects present the building's design? Y
+# filler 9916 -
+One of the dentists from the clinic has volunteered to teach the trainees the new method.
+?q9916 Did any dentist volunteer? Y
+# filler 9917 -
+The farmer who the ranchers hired for the job has carefully piled the seeds in long rows.
+?q9917 Were the seeds carefully arranged? Y
+# filler 9918 -
+One of the council gardeners has been knocked down by a reckless driver who was going too fast.
+?q9918 Was the gardener from the council? Y
+# filler 9919 -
+The soldiers that the natives helped to climb the mountains arrived home safely.
+?q9919 Were the soldiers assisted? Y
+# filler 9920 -
+A professor praised at the conference announced his retirement to make room for young talent.
+?q9920 Was the professor praised? Y
+# filler 9921 -
+One of the comets discovered by the astronomer was the largest known of its kind.
+?q9921 Did the astronomer discover a comet? Y
+# filler 9922 -
+The demanding diners have praised the chef of the feast that was prepared using authentic ingredients.
+?q9922 Were the diners demanding? Y
+# filler 9923 -
+Some of the game contestants have crammed the dollar bills on their pockets.
+?q9923 Did the contestants earn money? Y
+# filler 9924 -
+A superhero imprisoned on a fortress escaped by using her magic powers and quick wits.
+?q9924 Did the superhero have magic powers? Y
+# filler 9925 -
+The bus driver who the kids followed wondered about the location of the school after getting lost.
+?q9925 Did they get lost on their way to school? Y
+# filler 9926 -
+A scientist has criticized the inventor of the drug because it was causing cancer in laboratory animals.
+?q9926 Was the drug causing cancer? Y
+# filler 9927 -
+An activist has petitioned the right-wing congressman for his attempt to curb illegal immigration.
+?q9927 Was the congressman right wing? Y
+# filler 9928 -
+The police officers were very outraged by the reckless driving of the Ferrari's owner.
+?q9928 Did the driver own a Ferrari? Y
+# filler 9929 -
+The nanny has consulted the babysitters about the virus causing concern among the parents.
+?q9929 Were the parents concerned about the virus? Y
+# filler 9930 -
+A sportscaster has interviewed the captain about the team hosting the state tournament.
+?q9930 Was there a state tournament? Y
+# filler 9931 -
+The pilot who delayed the ground crew had remained on the runway for a long time.
+?q9931 Did the plane remain on the runway for a long time? Y
+# filler 9932 -
+The speakers who entertained the economists have predicted a good year for the industry.
+?q9932 Did the speaker predict a good year for the industry? Y
+# filler 9933 -
+The sculptor did not finish the project because he had a huge argument with his employer.
+?q9933 Was the sculptor angry at his employer? Y
+# filler 9934 -
+The student hit by his peers on the courtyard registered a complaint with the school board.
+?q9934 Did the student register a complaint? Y
+# filler 9935 -
+The professional that the amateur beat suffered a tremendous humiliation after the defeat.
+?q9935 Was the professional embarrassed? Y
+# filler 9936 -
+One of the flowers sketched by the painter faded before the artist could paint over the figure.
+?q9936 Did the flower fade? Y
+# filler 9937 -
+The dean of the faculty of Philosophy did not present the proud professor with the trophy.
+?q9937 Was the professor proud? Y
+# filler 9938 -
+None of the lamps cleaned by the janitor in the morning shined brighter than the rest.
+?q9938 Did the janitor clean the lamps? Y
+# filler 9939 -
+The man who followed the first lady to the gala was an undercover agent from the CIA.
+?q9939 Was the first lady followed by the CIA? Y
+# filler 9940 -
+The farmer that approached the customers with a smile lifted the chickens from their coop.
+?q9940 Was the chicken in the coop? Y
+# filler 9941 -
+One of the hospital nurses has been insulted by a drunken patient during the night shift.
+?q9941 Was there a drunken patient in the night shift? Y
+# filler 9942 -
+The investigators who the agency phoned suspected Ms. Reynolds of committing the murder.
+?q9942 Was Mr. Reynolds a suspect? Y
+# filler 9943 -
+The movie star who the organizers visited proposed the annual prize at the gala.
+?q9943 Was the prize proposed by a movie star? Y
+# filler 9944 -
+The colonel did not restrain the commander who was ordering the troops to continue fighting.
+?q9944 Were the troops ordered to continue fighting? Y
+# filler 9945 -
+The class that disliked the teacher skimmed the reading for the week as a sign of protest.
+?q9945 Was the teacher disliked by the class? Y
+# filler 9946 -
+The employees that noticed the fireman hurried across the open field fearing for their lives.
+?q9946 Were the employees relaxed? N
+# filler 9947 -
+The philosopher misquoted by the dean wrote about the ethical treatment of animals.
+?q9947 Did the philosopher write about war? N
+# filler 9948 -
+A novelist signed by the agent did not participate in book talks or other promotional events.
+?q9948 Did the novelist participate in book talks? N
+# filler 9949 -
+The psychiatrist rewarded with a promotion did not enjoy the prestige of his new position.
+?q9949 Was the psychiatrist rewarded with an award? N
+# filler 9950 -
+A liberal congressman warned the president about the nation located within disputed territory.
+?q9950 Was the congressman conservative? N
+# filler 9951 -
+The firemen that the residents called attacked the fire with high-powered hoses.
+?q9951 Were the firemen called by the police? N
+# filler 9952 -
+The convict that asked for witness protection changed a critical part of the story during his testimony.
+?q9952 Did the convict stick to the original version? N
+# filler 9953 -
+The manager who the boss visited remembered some inconvenient facts about the factory.
+?q9953 Was the boss visited by a manager? N
+# filler 9954 -
+One of the businessmen annoyed by the waiter threatened to sue the hotel.
+?q9954 Did the waiter praise the businessmen? N
+# filler 9955 -
+The party that the bullies attended last weekend ended shortly after their arrival.
+?q9955 Did the bullies attend a conference? N
+# filler 9956 -
+No mathematicians who the chairman visited created a definite solution to the well-known problem.
+?q9956 Was the problem unknown? N
+# filler 9957 -
+The judge who addressed the witnesses noticed the concern of the defense attorneys in the room.
+?q9957 Did the judge address the defense attorneys? N
+# filler 9958 -
+Some of the waitresses from the restaurant took a tray of appetizers to the customers.
+?q9958 Did the waitresses take a tray of champagne? N
+# filler 9959 -
+The postman bitten by a dog needed seventeen stitches and had a permanent scar from the injury.
+?q9959 Was the postman bitten by a snake? N
+# filler 9960 -
+The principal questioned a member of the clique who was constantly mouthing off to teachers.
+?q9960 Was the member of the clique questioned by the teachers? N
+# filler 9961 -
+A socialite praised the hostess for the meticulous organization of the party to celebrate the Oscars.
+?q9961 Was the socialite praised by the hostess? N
+# filler 9962 -
+The neighbor did not approach the owner of the dog regarding its barking late at night.
+?q9962 Was the dog quiet during the night? N
+# filler 9963 -
+Some of the pet owners in the neighborhood have demanded separate play areas for dogs.
+?q9963 Did the pet owners want separate sidewalks for dogs? N
+# filler 9964 -
+A salesman called the buyer of the rifle who had been looking for antiques from the war.
+?q9964 Was the buyer looking for videogames? N
+# filler 9965 -
+No homeowner consulted an architect about the house constructed beside the lake.
+?q9965 Was the house far from the lake? N
+# filler 9966 -
+No new residents have marked their house number on the front door.
+?q9966 Did the new residents mark the house numbers? N
+# filler 9967 -
+The visitors who the students greeted with joy walked across the courtyard with incredulity.
+?q9967 Were the visitors insulted? N
+# filler 9968 -
+The stockholder queried the employees about the highly controversial and unfair policy.
+?q9968 Was the policy fair? N
+# filler 9969 -
+An affectionate trainer called by the worried jockey rubbed the horse’s soft coat.
+?q9969 Did the trainer rub the dog? N
+# filler 9970 -
+A reporter approached the shocked victim of the attack by a suicide bomber.
+?q9970 Was the victim approached by the bomber? N
+# filler 9971 -
+Some of the deputies have explained the agenda for the international meeting to the president.
+?q9971 Was the meeting national? N
+# filler 9972 -
+An excited surgeon gave the newborn to its exhausted mother right after cutting the umbilical cord.
+?q9972 Was the surgeon indifferent? N
+# filler 9973 -
+The skater that the trainer hadn't helped has been preparing on his own for the major competition.
+?q9973 Was the skater helped by the trainer? N
+# filler 9974 -
+The girl that no clown approached during the birthday party spent the whole day crying.
+?q9974 Did the girl enjoy the party? N
+# filler 9975 -
+The mayor that didn't accept the inquiry had already been accused of embezzlement in the past.
+?q9975 Did the mayor accept the inquiry? N
+# filler 9976 -
+The team that amazed the public wasn't regarded as very experienced by the competition's jury.
+?q9976 Was the jury amazed by the team? N
+# filler 9977 -
+The policemen from my neighborhood's station didn't receive a single call during the entire weekend.
+?q9977 Were the policemen busy during the weekend? N
+# filler 9978 -
+No girls that the boy charmed throughout the school year had fallen in love with him.
+?q9978 Have the girls fallen in love with the boy? N
+# filler 9979 -
+None of the recruits that the commander mobilized for the mission had training in high risk operations.
+?q9979 Were the recruits trained in high risk operations? N
+# filler 9980 -
+The detective that the suspect couldn't recognize had been tracking ex-convicts for a long time
+?q9980 Did the suspect recognize the detective? N
+# filler 9981 -
+No good headmaster will ignore the suggestions shared by teaching staff and the students.
+?q9981 Should a good headmaster ignore the students' suggestions? N
+# filler 9982 -
+The parents of the violent adolescent haven't assumed their part of responsibility in his bad behavior.
+?q9982 Was the adolescent gentle? N
+# filler 9983 -
+An expert in climate change was summoned to appear before the congressional committee.
+?q9983 Did the congressional committee call an economist? N
+# filler 9984 -
+The secretary that the employees embarrassed for weeks has been complaining about her co-workers
+?q9984 Was the secretary happy about her co-workers? N
+# filler 9985 -
+One of the lions from the reserve attacked a group of British tourists that were on a safari.
+?q9985 Were the tourists on a cruise? N
+# filler 9986 -
+One of the assistants that the boss upset had never worked in such a competitive environment before.
+?q9986 Was the boss upset by the assistant? N
+# filler 9987 -
+The applicant that the rude manager interviewed for the vacancy has decided to withdraw his application.
+?q9987 Was the manager polite? N
+# filler 9988 -
+A policeman blamed himself for the incident at the headquarters in which two agents were injured.
+?q9988 Were the two agents killed in the incident? N
+# filler 9989 -
+One of the naval officers at the ceremony draped the flag over the coffin and gave it to the soldier's family.
+?q9989 Did the officer give the flag to the general? N
+# filler 9990 -
+One of the bags stowed by the stewardess in the passenger compartment was mistaken for a bomb.
+?q9990 Were the bags stowed by the pilot? N
+# practice 8801 -
+One of the guards warned the tourist guide about directing the excursionists to the restricted ruins.
+?q8801 Was the tourist guide warned? Y
+# practice 8802 -
+The upset father thought that his daughter owed him an apology for her bad behavior.
+?q8802 Was the daughter upset? N
+# filler 9901 -
+The refugee found by the soldiers trapped under the rubble got hurt during the difficult rescue.
+?q9901 Did the refugee get hurt? Y
+# filler 9902 -
+The boy who the mother woke early in the morning has bothered her about the trip to the beach.
+?q9902 Was the trip to the beach? Y
+# filler 9903 -
+The veterans who the coach admired for a long time deceived him during the battle.
+?q9903 Was the coach deceived? Y
+# filler 9904 -
+The desperate nuns begged the authorities to take care of them during the war.
+?q9904 Was there a war? Y
+# filler 9905 -
+The zookeeper that watched the monkeys hurt himself with the cage bars while feeding them.
+?q9905 Was the zookeeper feeding the monkeys? Y
+# filler 9906 -
+The waiter who served the lady a cocktail had pricked himself with a broken glass.
+?q9906 Was the lady drinking a cocktail? Y
+# filler 9907 -
+An independent candidate criticized by the senators blamed them for the unemployment rates.
+?q9907 Was the candidate criticized? Y
+# filler 9908 -
+The executive who oversaw the managers doubted himself on most major decisions
+?q9908 Were the decisions minor? Y
+# filler 9909 -
+The man thought that the actress who made a terrible audition owed herself a second chance.
+?q9909 Was the audition terrible? Y
+# filler 9910 -
+The neighbors who the couple observed from the car have purchased the old Victorian house.
+?q9910 Did the couple observed the neighbors? Y
+# filler 9911 -
+The producers sued by the studio denied signing any agreement prior to the production of the single.
+?q9911 Were the producers sued? Y
+# filler 9912 -
+The group of runners who the driver sees each morning on his way to work always wave.
+?q9912 Does the driver see the runners each morning? Y
+# filler 9913 -
+The national critics complimented the director of the play which was opening to rave reviews abroad.
+?q9913 Were the reviews rave? Y
+# filler 9914 -
+The safe opened with explosives was demolished and its contents were completely burned.
+?q9914 Were the contents of the safe destroyed? Y
+# filler 9915 -
+The architects from the firm showed the company the design proposed for the new building.
+?q9915 Did the architects present the building's design? Y
+# filler 9916 -
+One of the dentists from the clinic has volunteered to teach the trainees the new method.
+?q9916 Did any dentist volunteer? Y
+# filler 9917 -
+The farmer who the ranchers hired for the job has carefully piled the seeds in long rows.
+?q9917 Were the seeds carefully arranged? Y
+# filler 9918 -
+One of the council gardeners has been knocked down by a reckless driver who was going too fast.
+?q9918 Was the gardener from the council? Y
+# filler 9919 -
+The soldiers that the natives helped to climb the mountains arrived home safely.
+?q9919 Were the soldiers assisted? Y
+# filler 9920 -
+A professor praised at the conference announced his retirement to make room for young talent.
+?q9920 Was the professor praised? Y
+# filler 9921 -
+One of the comets discovered by the astronomer was the largest known of its kind.
+?q9921 Did the astronomer discover a comet? Y
+# filler 9922 -
+The demanding diners have praised the chef of the feast that was prepared using authentic ingredients.
+?q9922 Were the diners demanding? Y
+# filler 9923 -
+Some of the game contestants have crammed the dollar bills on their pockets.
+?q9923 Did the contestants earn money? Y
+# filler 9924 -
+A superhero imprisoned on a fortress escaped by using her magic powers and quick wits.
+?q9924 Did the superhero have magic powers? Y
+# filler 9925 -
+The bus driver who the kids followed wondered about the location of the school after getting lost.
+?q9925 Did they get lost on their way to school? Y
+# filler 9926 -
+A scientist has criticized the inventor of the drug because it was causing cancer in laboratory animals.
+?q9926 Was the drug causing cancer? Y
+# filler 9927 -
+An activist has petitioned the right-wing congressman for his attempt to curb illegal immigration.
+?q9927 Was the congressman right wing? Y
+# filler 9928 -
+The police officers were very outraged by the reckless driving of the Ferrari's owner.
+?q9928 Did the driver own a Ferrari? Y
+# filler 9929 -
+The nanny has consulted the babysitters about the virus causing concern among the parents.
+?q9929 Were the parents concerned about the virus? Y
+# filler 9930 -
+A sportscaster has interviewed the captain about the team hosting the state tournament.
+?q9930 Was there a state tournament? Y
+# filler 9931 -
+The pilot who delayed the ground crew had remained on the runway for a long time.
+?q9931 Did the plane remain on the runway for a long time? Y
+# filler 9932 -
+The speakers who entertained the economists have predicted a good year for the industry.
+?q9932 Did the speaker predict a good year for the industry? Y
+# filler 9933 -
+The sculptor did not finish the project because he had a huge argument with his employer.
+?q9933 Was the sculptor angry at his employer? Y
+# filler 9934 -
+The student hit by his peers on the courtyard registered a complaint with the school board.
+?q9934 Did the student register a complaint? Y
+# filler 9935 -
+The professional that the amateur beat suffered a tremendous humiliation after the defeat.
+?q9935 Was the professional embarrassed? Y
+# filler 9936 -
+One of the flowers sketched by the painter faded before the artist could paint over the figure.
+?q9936 Did the flower fade? Y
+# filler 9937 -
+The dean of the faculty of Philosophy did not present the proud professor with the trophy.
+?q9937 Was the professor proud? Y
+# filler 9938 -
+None of the lamps cleaned by the janitor in the morning shined brighter than the rest.
+?q9938 Did the janitor clean the lamps? Y
+# filler 9939 -
+The man who followed the first lady to the gala was an undercover agent from the CIA.
+?q9939 Was the first lady followed by the CIA? Y
+# filler 9940 -
+The farmer that approached the customers with a smile lifted the chickens from their coop.
+?q9940 Was the chicken in the coop? Y
+# filler 9941 -
+One of the hospital nurses has been insulted by a drunken patient during the night shift.
+?q9941 Was there a drunken patient in the night shift? Y
+# filler 9942 -
+The investigators who the agency phoned suspected Ms. Reynolds of committing the murder.
+?q9942 Was Mr. Reynolds a suspect? Y
+# filler 9943 -
+The movie star who the organizers visited proposed the annual prize at the gala.
+?q9943 Was the prize proposed by a movie star? Y
+# filler 9944 -
+The colonel did not restrain the commander who was ordering the troops to continue fighting.
+?q9944 Were the troops ordered to continue fighting? Y
+# filler 9945 -
+The class that disliked the teacher skimmed the reading for the week as a sign of protest.
+?q9945 Was the teacher disliked by the class? Y
+# filler 9946 -
+The employees that noticed the fireman hurried across the open field fearing for their lives.
+?q9946 Were the employees relaxed? N
+# filler 9947 -
+The philosopher misquoted by the dean wrote about the ethical treatment of animals.
+?q9947 Did the philosopher write about war? N
+# filler 9948 -
+A novelist signed by the agent did not participate in book talks or other promotional events.
+?q9948 Did the novelist participate in book talks? N
+# filler 9949 -
+The psychiatrist rewarded with a promotion did not enjoy the prestige of his new position.
+?q9949 Was the psychiatrist rewarded with an award? N
+# filler 9950 -
+A liberal congressman warned the president about the nation located within disputed territory.
+?q9950 Was the congressman conservative? N
+# filler 9951 -
+The firemen that the residents called attacked the fire with high-powered hoses.
+?q9951 Were the firemen called by the police? N
+# filler 9952 -
+The convict that asked for witness protection changed a critical part of the story during his testimony.
+?q9952 Did the convict stick to the original version? N
+# filler 9953 -
+The manager who the boss visited remembered some inconvenient facts about the factory.
+?q9953 Was the boss visited by a manager? N
+# filler 9954 -
+One of the businessmen annoyed by the waiter threatened to sue the hotel.
+?q9954 Did the waiter praise the businessmen? N
+# filler 9955 -
+The party that the bullies attended last weekend ended shortly after their arrival.
+?q9955 Did the bullies attend a conference? N
+# filler 9956 -
+No mathematicians who the chairman visited created a definite solution to the well-known problem.
+?q9956 Was the problem unknown? N
+# filler 9957 -
+The judge who addressed the witnesses noticed the concern of the defense attorneys in the room.
+?q9957 Did the judge address the defense attorneys? N
+# filler 9958 -
+Some of the waitresses from the restaurant took a tray of appetizers to the customers.
+?q9958 Did the waitresses take a tray of champagne? N
+# filler 9959 -
+The postman bitten by a dog needed seventeen stitches and had a permanent scar from the injury.
+?q9959 Was the postman bitten by a snake? N
+# filler 9960 -
+The principal questioned a member of the clique who was constantly mouthing off to teachers.
+?q9960 Was the member of the clique questioned by the teachers? N
+# filler 9961 -
+A socialite praised the hostess for the meticulous organization of the party to celebrate the Oscars.
+?q9961 Was the socialite praised by the hostess? N
+# filler 9962 -
+The neighbor did not approach the owner of the dog regarding its barking late at night.
+?q9962 Was the dog quiet during the night? N
+# filler 9963 -
+Some of the pet owners in the neighborhood have demanded separate play areas for dogs.
+?q9963 Did the pet owners want separate sidewalks for dogs? N
+# filler 9964 -
+A salesman called the buyer of the rifle who had been looking for antiques from the war.
+?q9964 Was the buyer looking for videogames? N
+# filler 9965 -
+No homeowner consulted an architect about the house constructed beside the lake.
+?q9965 Was the house far from the lake? N
+# filler 9966 -
+No new residents have marked their house number on the front door.
+?q9966 Did the new residents mark the house numbers? N
+# filler 9967 -
+The visitors who the students greeted with joy walked across the courtyard with incredulity.
+?q9967 Were the visitors insulted? N
+# filler 9968 -
+The stockholder queried the employees about the highly controversial and unfair policy.
+?q9968 Was the policy fair? N
+# filler 9969 -
+An affectionate trainer called by the worried jockey rubbed the horse’s soft coat.
+?q9969 Did the trainer rub the dog? N
+# filler 9970 -
+A reporter approached the shocked victim of the attack by a suicide bomber.
+?q9970 Was the victim approached by the bomber? N
+# filler 9971 -
+Some of the deputies have explained the agenda for the international meeting to the president.
+?q9971 Was the meeting national? N
+# filler 9972 -
+An excited surgeon gave the newborn to its exhausted mother right after cutting the umbilical cord.
+?q9972 Was the surgeon indifferent? N
+# filler 9973 -
+The skater that the trainer hadn't helped has been preparing on his own for the major competition.
+?q9973 Was the skater helped by the trainer? N
+# filler 9974 -
+The girl that no clown approached during the birthday party spent the whole day crying.
+?q9974 Did the girl enjoy the party? N
+# filler 9975 -
+The mayor that didn't accept the inquiry had already been accused of embezzlement in the past.
+?q9975 Did the mayor accept the inquiry? N
+# filler 9976 -
+The team that amazed the public wasn't regarded as very experienced by the competition's jury.
+?q9976 Was the jury amazed by the team? N
+# filler 9977 -
+The policemen from my neighborhood's station didn't receive a single call during the entire weekend.
+?q9977 Were the policemen busy during the weekend? N
+# filler 9978 -
+No girls that the boy charmed throughout the school year had fallen in love with him.
+?q9978 Have the girls fallen in love with the boy? N
+# filler 9979 -
+None of the recruits that the commander mobilized for the mission had training in high risk operations.
+?q9979 Were the recruits trained in high risk operations? N
+# filler 9980 -
+The detective that the suspect couldn't recognize had been tracking ex-convicts for a long time
+?q9980 Did the suspect recognize the detective? N
+# filler 9981 -
+No good headmaster will ignore the suggestions shared by teaching staff and the students.
+?q9981 Should a good headmaster ignore the students' suggestions? N
+# filler 9982 -
+The parents of the violent adolescent haven't assumed their part of responsibility in his bad behavior.
+?q9982 Was the adolescent gentle? N
+# filler 9983 -
+An expert in climate change was summoned to appear before the congressional committee.
+?q9983 Did the congressional committee call an economist? N
+# filler 9984 -
+The secretary that the employees embarrassed for weeks has been complaining about her co-workers
+?q9984 Was the secretary happy about her co-workers? N
+# filler 9985 -
+One of the lions from the reserve attacked a group of British tourists that were on a safari.
+?q9985 Were the tourists on a cruise? N
+# filler 9986 -
+One of the assistants that the boss upset had never worked in such a competitive environment before.
+?q9986 Was the boss upset by the assistant? N
+# filler 9987 -
+The applicant that the rude manager interviewed for the vacancy has decided to withdraw his application.
+?q9987 Was the manager polite? N
+# filler 9988 -
+A policeman blamed himself for the incident at the headquarters in which two agents were injured.
+?q9988 Were the two agents killed in the incident? N
+# filler 9989 -
+One of the naval officers at the ceremony draped the flag over the coffin and gave it to the soldier's family.
+?q9989 Did the officer give the flag to the general? N
+# filler 9990 -
+One of the bags stowed by the stewardess in the passenger compartment was mistaken for a bomb.
+?q9990 Were the bags stowed by the pilot? N
