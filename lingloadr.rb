@@ -11,7 +11,12 @@ $stdout.flush
 filler_paths = gets
 
 begin
-    experimental_paths.split(/(?<!".)(?<!\\)\s(?!.*")/).map { |path| path.strip.gsub("\\ ", " ").gsub("\"", "").gsub("~", ENV['HOME']) }.each do |experimental|
+    experimental_paths.split(/(?<!".)(?<!\\)\s(?!.*")/).
+        map { |path| path.strip.
+        gsub("\\ ", " ").
+        gsub("\"", "").
+        gsub("~", ENV['HOME']) }.
+        each do |experimental|
         CSV.foreach experimental do |row|
             wordi = -1
             stimulus = row[2].split(" ").map do |word| 
@@ -30,7 +35,12 @@ begin
         end
     end
 
-    filler_paths.split(/(?<!".)(?<!\\)\s(?!.*")/).map { |path| path.strip.gsub("\\ ", " ").gsub("\"", "").gsub("~", ENV['HOME']) }.each do |filler|
+    filler_paths.split(/(?<!".)(?<!\\)\s(?!.*")/).
+        map { |path| path.strip.
+        gsub("\\ ", " ").
+        gsub("\"", "").
+        gsub("~", ENV['HOME']) }.
+        each do |filler|
         CSV.foreach filler do |row|
             wordi = -1
             stimulus = row[2].split(" ").map do |word| 
