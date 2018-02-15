@@ -10,6 +10,21 @@ $stdout.flush
 
 filler_paths = gets.chomp
 
+puts "Please enter the experiment name:"
+$stdout.flush
+
+experiment_name = gets.chomp
+
+puts "Please enter the indices of the columns that track the following variables, delimited by spaces:\n"
+puts "Stimulus number, stimulus condition, stimulus sentence, stimulus question, question answer:\n"
+
+colnums = gets.chomp.split(" ").map { |num| (num.to_i - 1) }
+
+puts "Please enter the indices of the columns that track the following variables, delimited by spaces:\n"
+puts "Filler number, filler sentence, filler question, filler answer, practice:\n"
+
+filler_colnums = gets.chomp.split(" ").map { |num| (num.to_i - 1) }
+
 begin
     experimental_paths.split(",").
         map { |path| path.
@@ -17,18 +32,18 @@ begin
             each do |experimental|
                 CSV.foreach experimental do |row|
                     wordi = -1
-                    stimulus = row[2].split(" ").map do |word| 
+                    stimulus = row[colnums[2]].split(" ").map do |word| 
                         "#{word}@reg#{wordi += 1}"
                     end.join(" ")
 
-                    if row[4] == "0"
+                    if row[colnums[4]] == "0"
                         answer = "Y"
                     else
                         answer = "N"
                     end
 
                     File.open('items.txt', 'a:UTF-8') do |f| 
-                        f.write("# narwhal #{row[1]} #{row[0]}\n#{stimulus}\n?q#{row[1]}#{row[0]} #{row[3]} #{answer}\n")
+                        f.write("# #{experiment_name} #{row[colnums[0]]} #{row[colnums[1]]}\n#{stimulus}\n?q#{row[colnums[0]]}#{row[colnums[1]]} #{row[colnums[3]]} #{answer}\n")
                     end
                 end
             end
@@ -39,24 +54,24 @@ begin
             each do |filler|
                 CSV.foreach filler do |row|
                     wordi = -1
-                    stimulus = row[2].split(" ").map do |word| 
+                    stimulus = row[filler_colnums[1]].split(" ").map do |word| 
                         "#{word}"
                     end.join(" ")
 
-                    if row[3] == "0"
+                    if row[filler_colnums[3]] == "0"
                         answer = "Y"
                     else
                         answer = "N"
                     end
 
-                    if row[4] == "practice"
+                    if row[filler_colnums[4]] == "practice"
                         name = "practice"
                     else
                         name = "filler"
                     end
 
                     File.open('items.txt', 'a:UTF-8') do |f| 
-                        f.write("# #{name} #{row[0]} -\n#{row[1]}\n?q#{row[0]} #{row[2]} #{answer}\n")
+                        f.write("# #{experiment_name} #{row[filler_colnums[0]]} -\n#{row[filler_colnums[2]]}\n?q#{row[filler_colnums[0]]} #{row[filler_colnums[2]]} #{answer}\n")
                     end
                 end
             end
